@@ -1,0 +1,380 @@
+<h2>Accepted Papers with Abstracts for ICITS 2012</h2>
+<h3>Conference Track</h3>
+<div class="paper">
+	<span class="authors">
+		<span>Martin Hirt, Christoph Lucas, Ueli Maurer and Dominik Raub</span>.
+	</span>
+	<span class="title">
+		Passive Corruption in Statistical Multi-Party Computation
+	</span>
+</div>
+<div class="abstract">
+	<b>
+		Abstract: 
+	</b>
+	The goal of Multi-Party Computation (MPC) is to perform an arbitrary computation in a distributed, private, and fault-tolerant way. For this purpose, a fixed set of n parties runs a protocol that tolerates an adversary corrupting a subset of the parties, preserving certain security guarantees like correctness, secrecy, robustness, and fairness. Corruptions can be either passive or active: A passively corrupted party follows the protocol correctly, but the adversary learns the entire internal state of this party. An actively corrupted party is completely controlled by the adversary, and may deviate arbitrarily from the protocol. A mixed adversary may at the same time corrupt some parties actively and some additional parties passively.
+<br/>In this work, we consider the statistical setting with mixed adversaries and study the exact consequences of active and passive corruptions on secrecy, correctness, robustness, and fairness separately (i.e., hybrid security). Clearly, the number of passive corruptions affects the thresholds for secrecy, while the number of active corruptions affects all thresholds. It turns out that in the statistical setting, the number of passive corruptions in particular also affects the threshold for correctness, i.e., in all protocols there are (tolerated) adversaries for which a single additional passive corruption is sufficient to break correctness. This is in contrast to both the perfect and the computational setting, where such an influence cannot be observed. Apparently, this effect arises from the use of information-theoretic signatures, which are part of most (if not all) statistical protocols.
+</div>
+<div class="paper">
+	<span class="authors">
+		<span>Ronald Cramer, Ivan Damgård and Valerio Pastro</span>.
+	</span>
+	<span class="title">
+		On the Amortized Complexity of Zero Knowledge Protocols for Multiplicative Relations
+	</span>
+</div>
+<div class="abstract">
+	<b>
+		Abstract: 
+	</b>
+	We present a  protocol that allows to prove in zero-knowledge that committed values $x_i, y_i, z_i$, $i=1,\dots,l$ satisfy $x_iy_i=z_i$, where the values are taken from a finite field. For error probability $2^{-u}$ the size of the proof is linear in $u$ and only logarithmic in $l$. Therefore, for any fixed error probability, the amortized complexity vanishes as we increase $l$. In particular,  when the committed values are from a field of small constant size, we improve complexity of previous solutions by a factor of $l$. Assuming preprocessing, we can make the commitments (and hence the protocol itself) be information theoretically secure. Using this type of commitments we obtain,in the preprocessing model, a perfect zero-knowledge interactive proof for circuit satisfiability of circuit $C$ where the proof has size $O(|C|)$. We then generalize our basic scheme to a protocol that verifies $l$ instances of an algebraic circuit $D$ over $K$ with $v$ inputs, in the following sense: given committed values $x_{i,j}$ and $z_i$, with $i=1,\dots,l$ and $j=1,\dots,v$, the prover shows that $D(x_{i,1},\dots,x_{i,v})= z_i$ for $i=1,\dots,l$. The interesting property is that the amortized complexity of verifying one circuit only depends on the multiplicative depth of the circuit and not the size. So  for circuits with small multiplicative depth, the amortized cost can be asymptotically smaller than the number of multiplications in $D$. Finally we look at commitments to integers, and we show how to implement information theoretically secure homomorphic commitments to integer values, based on preprocessing. After preprocessing, they require only a constant number of multiplications per commitment. We also show a variant of our basic protocol, which can verify $l$ integer multiplications with low amortized complexity. This protocol also works for standard computationally secure commitments and in this case<br/>we improve on security: whereas previous solutions with similar efficiency require the strong RSA assumption, we only need the assumption required by the commitment scheme itself, namely factoring.
+</div>
+<div class="paper">
+	<span class="authors">
+		<span>Maki Yoshida, Toru Fujiwara and Marc Fossorier</span>.
+	</span>
+	<span class="title">
+		Optimum General Threshold Secret Sharing
+	</span>
+</div>
+<div class="abstract">
+	<b>
+		Abstract: 
+	</b>
+	An important issue of threshold secret sharing (TSS) schemes is to minimize the entropy of shares. This issue is resolved for the simpler classes called (k, n)-TSS and (k, L, n)-threshold ramp secret sharing (TRSS). That is, for each of these two classes, an optimum construction which minimizes the entropy was presented. The goal of this paper is to develop an optimum construction for a more general threshold class where the mutual information between the secret and a set of shares is deﬁned by a discrete function which monotonically increases from zero to one with the number of shares. A tight lower bound of the entropy of a share is ﬁrst derived and then an optimum construction is presented. The derived lower bound is larger than the previous one except for special functions such as convex and concave functions. The optimum construction encodes the secret by using one or more optimum TRSS schemes independently. The optimality is shown by devising a combination of TRSS schemes which achieves the new lower bound.
+</div>
+<div class="paper">
+	<span class="authors">
+		<span>Marcel Keller, Gert Læssøe Mikkelsen and Andy Rupp</span>.
+	</span>
+	<span class="title">
+		Efficient Threshold Zero-Knowledge with Applications to User-Centric Protocols
+	</span>
+</div>
+<div class="abstract">
+	<b>
+		Abstract: 
+	</b>
+	In this paper, we investigate on threshold proofs, a framework for distributing the prover’s side of interactive
+proofs of knowledge over multiple parties. Interactive proofs of knowledge (PoK) are widely used primitives of cryptographic
+protocols, including important user-centric protocols, such as identification schemes, electronic cash (e-cash), and anonymous
+credentials.<br>
+We present a security model for threshold proofs of knowledge and develop threshold versions of well-known primitives such
+as range proofs, zero-knowledge proofs for preimages of homomorphisms (which generalizes PoKs of discrete logarithms,
+representations, p-th roots, etc.), as well as OR statements. These building blocks are proven secure in our model.
+Furthermore, we apply the developed primitives and techniques in the context of user-centric protocols. In particular, we
+construct distributed-user variants of Brands’ e-cash system and the bilinear anonymous credential scheme by Camenisch and
+Lysyanskaya. Distributing the user party in such protocols has several practical advantages: First, the security of a user can be
+increased by sharing secrets and computations over multiple devices owned by the user. In this way, losing control of a single
+device does not result in a security breach. Second, this approach also allows groups of users to jointly control an application
+(e.g., a joint e-cash account), not giving a single user full control.<br>
+The distributed versions of the protocols we propose in this paper are relatively efficient (when compared to a general MPC
+approach). In comparison to the original protocols only the prover’s (or user’s) side is modified while the other side stays
+untouched. In particular, it is oblivious to the other party whether it interacts with a distributed prover (or user) or one as
+defined in the original protocol.
+</div>
+<div class="paper">
+	<span class="authors">
+		<span>Yohei Watanabe, Takenobu Seito and Junji Shikata</span>.
+	</span>
+	<span class="title">
+		Information-Theoretic Timed-Release Security: Key-Agreement, Encryption and Authentication Code
+	</span>
+</div>
+<div class="abstract">
+	<b>
+		Abstract: 
+	</b>
+	In this paper, we study timed-release cryptography with information-theoretic security. As fundamental cryptographic primitives with information-theoretic security, we can consider key-agreement, encryption, and authentication-codes. Therefore, in this paper, we deal with information-theoretic timed-release security for all those primitives. Specifically, we propose the models and formalizations of security for information-theoretic timed-release key-agreement, encryption, and authentication-codes, and we present constructions of those ones. In particular, information-theoretic timed-release encryption and authentication-codes can be constructed from information-theoretic timed-release key-agreement in a generic and simple way. Also, we derive tight lower bounds of sizes of secret-keys and show an optimal construction for information-theoretic timed-release key-agreement. <br/>
+Furthermore, we investigate a relationship of mechanisms between information-theoretic timed-release key-agreement and information-theoretic key-insulated key-agreement. It turns out that there exists a simple algorithm which converts the former into the latter, and vice versa. In the sense, we conclude that these two mechanisms are essentially close.
+</div>
+<div class="paper">
+	<span class="authors">
+		<span>Alain Tapp, Samuel Ranellucci, Anne Broadbent and Stacey Jeffery</span>.
+	</span>
+	<span class="title">
+		Trading Robustness for Correctness and Privacy in Certain Multiparty Computations, Beyond an Honest Majority
+	</span>
+</div>
+<div class="abstract">
+	<b>
+		Abstract: 
+	</b>
+	We improve on the classical results in information-theoretically secure multiparty computation among a set of n participants, by considering the special case of the computation of the addition function over binary inputs in the secure channels model with a simultaneous broadcast channel. This simple function is a useful building block for other applications. The classical results in multiparty computation show that in this model, every function can be computed with information-theoretic security if and only if less than n/2 participants are corrupt. In this article we show that, under certain conditions, this bound can be overcome.<br/>
+More precisely, let t(p); t(r) and t(c) be the privacy, robustness and correctness thresholds; that is, the minimum number of participants that must be actively corrupted in order for privacy, robustness or correctness, respectively, to be compromised. We show a series of novel tradeoffs applicable to the multiparty computation of f(x1...xn) = x1 + ... + xn for xi in {0,1}, culminating in the most general tradeoffs: t(p) + t(r) = n + 1 and t(c) + t(r) = n + 1. These tradeoffs are applicable as long as t(r) &lt; n/2, which implies that, at the cost of reducing robustness, privacy and correctness are achievable despite a dishonest majority (as an example, setting the robustness threshold to n/3 yields privacy and correctness thresholds of 2n/3 + 1). We give applications to information-theoretically secure voting and anonymous message transmission, yielding protocols with the same tradeos.
+</div>
+<div class="paper">
+	<span class="authors">
+		<span>Bernardo M. David, Anderson Nascimento and Jörn Müller-Quade</span>.
+	</span>
+	<span class="title">
+		Universally Composable Oblivious Transfer from Lossy Encryption and the McEliece Assumptions
+	</span>
+</div>
+<div class="abstract">
+	<b>
+		Abstract: 
+	</b>
+	Oblivious transfer (OT) is a primitive of great importance in two-party and multi-party computation. We introduce a general construction of universally composable (UC) oblivious transfer protocols based on lossy cryptosystems in the common reference string (CRS) model, yielding protocols under several assumptions. In order to achieve this, we show that for most known lossy encryption constructions it is possible to distinguish between lossy and injective public keys given the corresponding secret key, similarly to dual-mode encryption in messy mode. 
+<br/>
+Furthermore, we adapt the techniques of our general construction to obtain the first UC secure OT protocol based on the McEliece assumptions, which are coding theory based assumptions that until now have resisted quantum attacks, thus introducing the first UC secure OT protocol based on coding assumptions. 
+<br/>
+However, differently from previous results based on dual-mode encryption, our scheme does not require a trapdoor for opening lossy ciphertexts, relying instead on CRS manipulation and cut-and-choose techniques to construct the simulators. In both constructions we circumvent the need for universally composable string commitment schemes, which are required by previous black-box compilers.
+</div>
+<div class="paper">
+	<span class="authors">
+		<span>Nico Döttling, Daniel Kraschewski and Jörn Müller-Quade</span>.
+	</span>
+	<span class="title">
+		Statistically Secure Linear-Rate Dimension Extension for Oblivious Affine Function Evaluation
+	</span>
+</div>
+<div class="abstract">
+	<b>
+		Abstract: 
+	</b>
+	Consider the following natural generalization of the well-known Oblivious Transfer (OT) primitive, which we call Oblivious Affine Function Evaluation (OAFE): Given some finite vector space F_q^k, a designated sender party can specify an arbitrary affine function f:F_q-&gt;F_q^k, such that a designated receiver party learns f(x) for a single argument x of its choice. This primitive is of particular interest, since analogously to the construction of garbled boolean circuits based on OT one can construct garbled arithmetic circuits based on OAFE.<br/>In this work we treat the quite natural question, if general F_q^k-OAFE can be efficiently reduced to F_q-OAFE (i.e. the sender only inputs some f:F_q-&gt;F_q). The analogous question for OT has previously been answered positively, but the respective construction turns out to be not applicable to OAFE due to an unobvious, yet non-artificial security problem. Nonetheless, we are able to provide an efficient, information-theoretically secure reduction along with a formal security proof based on some specific algebraic properties of random F_q-matrices.
+</div>
+<div class="paper">
+	<span class="authors">
+		<span>Ran Canetti, Ben Riva and Guy Rothblum</span>.
+	</span>
+	<span class="title">
+		Two Protocols for Delegation of Computation
+	</span>
+</div>
+<div class="abstract">
+	<b>
+		Abstract: 
+	</b>
+	Consider a weak client that wishes to delegate computation to an untrusted server and be able to succinctly verify the correctness of the result. We present protocols in two relaxed variants of this problem.
+<br/>
+We first consider a model where the client delegates the computation to {\em two or more} servers, and is guaranteed to output the correct answer as long as even a {\em single} server is honest. In this model, we show a {\sf\small 1-round statistically sound} protocol for any log-space uniform $\mathcal{NC}$ circuit. In contrast, in the single server setting one-round succinct delegation protocols can only be computationally sound (under standard complexity assumptions). The protocol extends the arithemetization techniques of [Goldwasser-Kalai-Rothblum, STOC 08] and [Feige-Kilian, STOC 97].
+<br/>
+Next we consider a simplified view of the protocol of [Goldwasser-Kalai-Rothblum, STOC 08] in the single-server model with a non-succinct, but \emph{public}, offline stage. Using this simplification we construct two computationally-sound protocols for delegation of computation of any circuit $C$, {\em even a non-uniform one}, such that the client runs in time $poly(log(size(C)), depth(C))$. The first protocol is potentially practical and easier to implement for general computations than the full protocol of [Goldwasser-Kalai-Rothblum, STOC 08], and the second is a 1-round protocol with similar complexity, but less efficient server.
+</div>
+<div class="paper">
+	<span class="authors">
+		<span>Mohsen Alimomeni and Reihaneh Safavi-Naini</span>.
+	</span>
+	<span class="title">
+		Guessing secrecy and its randomness requirement
+	</span>
+</div>
+<div class="abstract">
+	<b>
+		Abstract: 
+	</b>
+	Shannon’s definition of secrecy, called perfect secrecy [Sha49], captures the strongest intuition of security for an encryption system. It requires that the ciphertext gives no information about the plaintext to even a computationally unbounded adversary. Shannon proved that one-time pad achieves perfect secrecy, but it is far from a practical scheme because of two main limitations: Firstly, the size of the key must be at least as long as the plaintext and secondly, the key must be chosen uniformly at random. A number of works attempted to achieve more practical schemes. For the first limitation, Russel and Wang [RW02] constructed schemes with smaller key length under certain conditions on plaintext distribution. For the second limitation, Boseley and Dodis [BD07] proved that achieving secrecy with imperfect random sources is almost impossible except for a small range of sources that are extractable. 
+<br/>
+This paper proposes a new relaxation of secrecy, called guessing secrecy, which requires that the adversary’s chance of best guess for the plaintexts does not change after viewing a ciphertext. Compared to perfect secrecy which does not allow any information leakage about plaintexts after viewing a ciphertext, guessing secrecy allows some leakage of information to the adversary as long as her chance of best guess for the plaintext does not change. We prove that guessing secrecy suffers from the same first limitation of perfect secrecy, i.e. the key should have length at least as large as the plaintext. However we show that guessing secrecy provides possibility of encryption with keys that are not uniformly distributed and this will be an advantage over perfect secrecy. We show that for distributions over plaintexts with certain property, there exists a family of distributions over keys that can
+provide guessing secrecy.
+</div>
+<div class="paper">
+	<span class="authors">
+		Yevgeniy Dodis.
+	</span>
+	<span class="title">
+		Shannon Impossibility, Revisited
+	</span>
+</div>
+<div class="abstract" style="border-bottom: solid #bbbbbb 1px;">
+	<b>
+		Abstract: 
+	</b>
+	In this note we revisit the famous result of Shannon stating that any encryption scheme with perfect security against computationally unbounded attackers must have a secret key as long as the message. This result motivated the introduction of modern encryption schemes, which are secure only against a computationally bounded attacker, and allow some small (negligible) advantage to such an attacker. It is a well known folklore that both such relaxations --- limiting the power of the attacker and allowing for some small advantage --- are necessary to overcome Shannon's result. To our surprise, we could not find a clean and well documented proof of this folklore belief. (In fact, two proofs are required, each showing that only one of the two relaxations above is not sufficient.) Most proofs we saw either made some limiting assumptions (e.g., encryption is deterministic), or proved a much more complicated statement (e.g., beating Shannon's bound implies the existence of one-way functions.)<br/>
+In this note we rectify this situation, by presenting two clean, elementary extensions of Shannon's impossibility result, showing that, in order to beat the famous Shannon lower bound on key length for one-time-secure encryption, one must **simultaneously** restrict the attacker to be efficient, and also allow the attacker to break the system with some non-zero (i.e., negligible) probability. Unlike most prior proofs we have seen, our proof seamlessly handles probabilistic encryption, small decryption error, and can be taught without any extra background (e.g., notions of entropy, etc.) in a first lecture of an introductory cryptography class.<br/>
+For intellectual curiosity, we also discuss some "entropy extensions" of our proof, and the the relation between our "indistinguishability-based" proof and Shannon's original "mutual-information-based" proof.
+</div>
+
+
+
+
+<h3>Workshop Track</h3>
+
+
+<div class="paper">
+	<span class="authors">
+		<span>Mark M. Wilde and Joseph M. Renes</span>.
+	</span>
+	<span class="title">Polar codes for private classical communication 
+	</span>
+</div>
+<div class="abstract">
+<b>Abstract:</b>
+We construct a new secret-key assisted polar coding scheme for private classical communication over a quantum or classical wiretap channel. The security of our scheme rests on an entropic uncertainty relation, in addition to the channel polarization effect. Our scheme achieves the symmetric private information rate by synthesizing "amplitude" and "phase" channels from an arbitrary quantum wiretap channel. We find that the secret-key consumption rate of the scheme vanishes for an arbitrary degradable quantum wiretap channel. Furthermore, we provide an additional sufficient condition for when the secret key rate vanishes, and we suspect that satisfying this condition implies that the scheme requires no secret key at all. Thus, this latter condition addresses an open question from the Mahdavifar-Vardy scheme for polar coding over a classical wiretap channel.
+<br>
+<b>Link:</b>  <a href="http://arxiv.org/abs/1203.5794">http://arxiv.org/abs/1203.5794</a>
+</div>
+<div class="paper">
+	<span class="authors">
+		<span>Nico Döttling, Daniel Kraschewski and Jörn Müller-Quade</span>.
+	</span>
+	<span class="title">David & Goliath Oblivious Affine Function Evaluation 
+	</span>
+</div>
+<div class="abstract">
+<b>Abstract:</b>
+Cryptographic assumptions regarding tamper-proof hardware tokens have gained increasing attention. Even if the tamper-proof hardware is issued by a party that is not trusted by the other(s), many tasks become possible: Tamper proof hardware is sufficient for universally composable protocols, for information-theoretically secure protocols, and even allows to create software that can only be used once (one-time programs).
+<br>
+In a two-party setting, where only one single tamper-proof token is issued, we present secure constructions for multiple one-time memories (OTMs), and reusable and bidirectional commitment and oblivious transfer (OT) primitives. Our approach in its primary variant comes along without any computational assumptions, but allows only for limited, yet arbitrary token reuse. However, unlimited token reusability can be achieved straightforwardly by using a pseudorandom number generator. All our constructions have only linear communication complexity (i.e.\ per implemented instance of k-bit OTM/commitment/OT only O(k) bits are transferred) and are thus asymptotically optimal. Moreover, the computation complexity of our protocols for k-bit OTMs/commitments/OT is dominated by O(1) finite field multiplications with field size 2^k, what is considerably more efficient than any other known construction based on untrusted tamper-proof hardware alone.
+<br>
+The central part of our contribution is a construction for oblivious affine function evaluation (OAFE), which can be seen as a generalization of the well known oblivious transfer primitive: Parametrized by a finite vector space F_q^k, the OAFE primitive allows a designated sender party to choose an arbitrary affine function f:F_q -> F_q^k, such that hidden from the sender party a designated receiver party may learn f(x) for exactly one function argument x of its choice. All our abovementioned results build on this primitive and it may also be of particular interest for the construction of garbled arithmetic circuits.
+<br>
+<b>Link:</b>  <a href="http://eprint.iacr.org/2012/135">http://eprint.iacr.org/2012/135</a>
+</div>
+<div class="paper">
+	<span class="authors">
+		<span>Jonathan Katz, Fang Song, Hong-Sheng Zhou and Vassilis Zikas</span>.
+	</span>
+	<span class="title">Feasibility and Completeness of Cryptographic Tasks in the Quantum World 
+	</span>
+</div>
+<div class="abstract">
+<b>Abstract:</b>
+Cryptographic feasibility results can change drastically in going from the classical to the quantum world; for example, there exist quantum protocols for unconditionally secure key exchange, whereas classical protocols for such task (with information-theoretic security) are impossible. With this in mind, we study feasibility of quantum protocols for universally composable, two-party secure computation in both the information-theoretic and computational settings. We show that with respect to computational security feasibility results carry over unchanged from the classical to the quantum world: a functionality can be realized (without setup) against quantum adversaries iff it can be realized against classical adversaries; and a functionality is complete (i.e., can be used to realize arbitrary other functionalities) in the quantum world iff it is complete in the classical world. Along the way, we also prove the analogue of the Canetti-Fischlin result for quantum protocols: namely, that there exist functionalities that cannot be realized without some additional trusted setup. 
+<br>
+In contrast, the situation in the information-theoretic (IT) setting is more complex and, in particular, there are functionalities that are complete in the quantum world but not in the classical case, e.g., commitment. We identify more complete functionalities in the quantum world, and show that the IT landscape of two-party functionalities in the quantum world collapses to (at most) three families: feasible, complete and XOR-like.
+<br>
+<b>Link:</b> n/a
+</div>
+<div class="paper">
+	<span class="authors">
+		<span>Vinod M Prabhakaran and Manoj M Prabhakaran</span>.
+	</span>
+	<span class="title">Bounds for Secure Two-Party Sampling from a Generalization of Common Information
+	</span>
+</div>
+<div class="abstract">
+<b>Abstract:</b>
+Secure multi-party computation is a central problem in modern cryptography. An important sub-class of this are problems of the following form: Alice and Bob desire to produce sample(s) of a pair of jointly distributed random variables. Each party must learn nothing more about the other party’s output than what its own output reveals. To aid in this, they have available a set up — correlated random variables whose distribution is different from the desired distribution — as well as unlimited noiseless communication. In this paper we present an upperbound on how efficiently a given set up can be used to produce samples from a desired distribution.
+<br>
+The key tool we develop is called tension — or more precisely, the region of tension — which measures how well the correlation between a pair of random variables can be (or rather, cannot be) resolved as a piece of common information and other independent pieces of information. We show various properties of this region, including a crucial monotonicity property: a protocol between two parties can only lower the tension between their views. This lets us derive state-of-the-art bounds on the efficiency of producing samples from a desired distribution using a given set up, by calculating bounds on their regions of tension.
+<br>
+Another important contribution of this work is to generalize the notion of common information of two dependent variables introduced by [Gács-Körner, 1973]. They defined common information of (X,Y) as the largest entropy rate of a common random variable that two parties observing X^n and Y^n respectively, can agree upon. It is well-known that this captures only a limited form of dependence between X and Y, and is zero in most cases of interest. Our generalization, which we call Assisted Common Information, lets us take into account “almost common” information ignored by Gács-Körner common information. In the assisted common information system, a genie assists the parties in agreeing on a more substantial common random
+variable; we characterize the trade-off between the amount of communication from the genie and the quality of the common random variable produced. We show that the optimal trade-off is essentially given by the region of tension. Connections to the Gray-Wyner system and Wyner’s common information are also studied.
+<br>
+<b>Link:</b>  <a href="http://arxiv.org/abs/1206.1282">http://arxiv.org/abs/1206.1282</a>
+</div>
+<div class="paper">
+	<span class="authors">
+		<span>Roger Colbeck and Renato Renner</span>.
+	</span>
+	<span class="title">Improving the quality of Santha-Vazirani sources
+	</span>
+</div>
+<div class="abstract">
+<b>Abstract:</b>
+Is it possible to generate perfectly random bits, using only a source of weakly random bits? A well-known result by Santha and Vazirani (FOCS 1984) shows that this is impossible if the only guarantee one has about the initial randomness is that the bias of each bit (that is, the difference between the probability of the most likely bit value and~$\frac{1}{2}$), conditioned on all previous ones, is upper bounded by a (known) constant $\eps$.  However, this impossibility result only applies to classical methods.Here we show that it is in fact possible to improve the quality of a Santha-Vazirani source using a quantum protocol provided the randomness source has a sufficiently low $\eps$.  Furthermore, the randomness of the resulting bits can be certified without relying on the correctness or completeness of quantum theory; the result holds in any non-signalling theory.
+<br>
+This has implications for cryptography, where honest users are often assumed to have trusted sources of perfect randomness.Our result implies that this assumption can be weakened: using our protocol, any task that can be securely performed using perfect randomness can in principle be securely performed using imperfect randomness (provided it is not too weak).
+<br>
+Although the present technique only works for a source with a sufficiently small bound on $\eps$, we conjecture that with an alternative method this bound can be increased.More precisely, we conjecture that, given a source with any non-trivial bound on $\eps$ (i.e.\ with $\eps$ strictly smaller than~$\frac{1}{2}$), there exists a protocol that uses only this source to generate bits with an arbitrarily small bias.
+<br>
+The full version of this work can be found in Nature Physics 8, p. 450-453 (also available as arXiv:1105.3195).
+<br>
+<b>Link:</b>  <a href="http://arxiv.org/abs/1105.3195">http://arxiv.org/abs/1105.3195</a>
+</div>
+<div class="paper">
+	<span class="authors">
+		<span>Nishanth Chandran, Juan Garay and Rafail Ostrovsky</span>.
+	</span>
+	<span class="title">Almost-Everywhere Secure Computation with Edge Corruptions 
+	</span>
+</div>
+<div class="abstract">
+<b>Abstract:</b>
+We consider secure multi-party computation (MPC) in a setting where the adversary can separately corrupt not only the parties (nodes) but also the communication channels (edges), and can furthermore choose selectively and adaptively which edges or nodes to corrupt. Note that if an adversary corrupts an edge, even if the two nodes that share that edge are honest, the adversary can control the link and thus deliver wrong messages to both players. We consider this question in the information-theoretic setting, and require security against a computationally unbounded adversary.
+In a fully connected network the above question is simple (and we also provide an answer that is optimal up to a constant factor). What makes the problem more challenging is to consider the case of sparse networks. Partially connected networks are far more realistic than fully connected networks, which led Garay and Ostrovsky [Eurocrypt'08] to formulate the notion of (unconditional) \emph{almost everywhere (a.e.) secure computation} in the node-corruption model, i.e., a model in which not all pairs of nodes are connected by secure channels and the adversary can corrupt some of the nodes (but not the edges). In such a setting, MPC amongst all honest nodes cannot be guaranteed due to the possible poor connectivity of some honest nodes with other honest nodes, and hence some of them must be ``given up'' and left out of the computation. The number of such nodes is a function of the underlying communication graph and the adversarial set of nodes.
+<br>
+In this work we introduce the notion of \emph{almost-everywhere secure computation with edge corruptions}, which is exactly the same problem as described above, except that we additionally allow the adversary to completely control some of the communication channels between two correct nodes---i.e., to ``corrupt'' edges in the network. While it is easy to see that an a.e. secure computation protocol for the original node-corruption model is also an a.e. secure computation protocol tolerating edge corruptions (albeit for a reduced fraction of edge corruptions with respect to the bound for node corruptions), no polynomial-time protocol is known in the case where a {\bf constant fraction} of the edges can be corrupted (i.e., the maximum that can be tolerated) and the degree of the network is sub-linear.
+<br>
+We make progress on this front, by constructing graphs of degree $O(n^\epsilon)$ (for arbitrary constant $0<\epsilon<1$) on which we can run a.e. secure computation protocols tolerating a constant fraction of adversarial edges. The number of given-up nodes in our construction is $\mu n$ (for some constant $0<\mu<1$ that depends on the fraction of corrupted edges), which is also asymptotically optimal. 
+<br>
+<b>Link:</b>  <a href="http://eprint.iacr.org/2012/221">http://eprint.iacr.org/2012/221</a>
+</div>
+<div class="paper">
+	<span class="authors">
+		<span>Mario Berta, Omar Fawzi and Stephanie Wehner</span>.
+	</span>
+	<span class="title">Quantum to Classical Randomness Extractors
+	</span>
+</div>
+<div class="abstract">
+<b>Abstract:</b>
+The goal of randomness extraction is to distill (almost) perfect randomness from a weak source of randomness. When the source yields a classical string X, many extractor constructions are known. Yet, when considering a physical randomness source, X is itself ultimately the result of a measurement on an underlying quantum system. When characterizing the power of a source to supply randomness it is hence a natural question to ask, how much classical randomness we can extract from a quantum system. To tackle this question we here take on the study of quantum-to-classical randomness extractors (QC-extractors). We provide constructions of QC-extractors based on measurements in a full set of mutually unbiased bases (MUBs), and certain single qubit measurements. As the first application, we show that any QC-extractor gives rise to entropic uncertainty relations with respect to quantum side information. Such relations were previously only known for two measurements. As the second application, we resolve the central open  question in the noisy-storage model [Wehner et al., PRL 100, 220502 (2008)] by linking security to the quantum capacity of the adversary's storage device.
+<br>
+<b>Link:</b>  <a href="http://arxiv.org/abs/1111.2026">http://arxiv.org/abs/1111.2026</a>
+</div>
+<div class="paper">
+	<span class="authors">
+		<span>Amos Beimel, Yuval Ishai, Eyal Kushilevitz and Ilan Orlov</span>.
+	</span>
+	<span class="title">Share Conversion and Private Information Retrieval 
+	</span>
+</div>
+<div class="abstract">
+<b>Abstract:</b>
+An information-theoretic private information retrieval (PIR) protocol allows a client to retrieve the i-th bit of a database, held by two or more servers, without revealing information about i to any individual server. Information-theoretic PIR protocols are closely related to locally decodable codes (LDCs), which are error correcting codes that can simultaneously offer a high level of robustness and sublinear-time decoding of each bit of the encoded message.
+<br>
+Recent breakthrough results of Yekhanin (STOC 2007) and Efremenko (STOC 2009) have led to a dramatic improvement in the asymptotic complexity of PIR and LDC.  We suggest a new ``cryptographic'' perspective on these recent constructions, which is based on a general notion of share conversion in secret-sharing schemes that may be of independent interest.
+<br>
+Our new perspective gives rise to a clean framework which unifies previous constructions and generalizes them in several directions. In a nutshell, we use the following two-step approach: (1) apply share conversion to get a low-communication secure multiparty computation protocol P for a nontrivial class F of low-depth circuits; (2) use a lower bound on the VC dimension of F to get a good PIR protocol from P. Our framework reduces the task of designing good PIR protocols to that of finding powerful forms of share conversion which support circuit classes of a high VC dimension.
+<br>
+Motivated by this framework, we study the general power of share conversion and obtain both positive and negative results. Our positive results improve the concrete complexity of PIR even for very feasible real-life parameters. They also lead to some improvements in the asymptotic complexity of the best previous PIR and LDC constructions. For 3-server PIR, we improve the asymptotic communication complexity from  O(2^{146 sqrt{ log n log log n}}) to O(2^{6 sqrt{ log n loglog n}}) bits, where n is the database size. Our negative results on share conversion establish some limitations on the power of our approach.
+<br>
+<b>Link:</b> n/a
+</div>
+<div class="paper">
+	<span class="authors">
+		<span>Benjamin Fuller, Adam O'Neill and Leonid Reyzin</span>.
+	</span>
+	<span class="title">A Unified Approach to Deterministic Encryption: New Constructions and a Connection to Computational Entropy
+	</span>
+</div>
+<div class="abstract">
+<b>Abstract:</b>
+We propose a general construction of deterministic encryption schemes that unifies prior work and gives novel schemes. Specifically, its instantiations provide:
+<br>
+- A construction from any trapdoor function that has sufficiently many hardcore bits.
+<br>
+- A construction that provides "bounded" multi-message security from lossy trapdoor functions.
+<br>
+The security proofs for these schemes are enabled by three tools that are of broader interest:
+<br>
+- A weaker and more precise sufficient condition for semantic security on a high-entropy message distribution. Namely, we show that to establish semantic security on a distribution M of messages, it suffices to establish indistinguishability for all conditional distribution M|E, where E is an event of probability at least 1/4. (Prior work required indistinguishability on all distributions of a given entropy.)
+<br>
+- A result about computational entropy of conditional distributions. Namely, we show that conditioning on an event E of probability p reduces the quality of computational entropy by a factor of p and its quantity by log_2 1/p.
+<br>
+- A generalization of leftover hash lemma to correlated distributions.
+<br>
+We also extend our result about computational entropy to the average case, which is useful in reasoning about leakage-resilient cryptography: leaking \lambda bits of information reduces the quality of computational entropy by a factor of 2^\lambda and its quantity by \lambda.
+<br>
+<b>Link:</b>  <a href="http://eprint.iacr.org/2012/005">http://eprint.iacr.org/2012/005</a>
+</div>
+<div class="paper">
+	<span class="authors">
+		<span>Lalitha Sankar, S. Raj Rajagopalan, and H. Vincent Poor</span>.
+	</span>
+	<span class="title">An Information-theoretic Approach to Privacy
+	</span>
+</div>
+<div class="abstract">
+<b>Abstract:</b>
+Ensuring the usefulness of electronic data sources while providing necessary privacy guarantees is an important unsolved problem. This problem drives the need for an analytical framework that can quantify the safety of personally identifiable information (privacy) while still providing a quantifiable benefit (utility) to multiple legitimate information consumers. State of the art approaches have predominantly focused on privacy. Utility of a data source is potentially (but not necessarily) degraded when it is restricted or modified to uphold privacy requirements. The central problem of this paper is a precise quantification, using information theoretic tools, of the tradeoff between the privacy needs of the respondents (individuals represented by the data)\ and the utility of the sanitized (published) data for any data source. The central contribution of this work is a precise quantification of the tradeoff between the privacy needs of the individuals represented by the data\ and the utility of the sanitized (published) data for any data source using the theory of rate distortion with additional privacy constraints. Utility is quantified (inversely) via distortion (accuracy), and privacy via equivocation (entropy). We expose an essential dimension of information disclosure for the first time via an additional constraint on the disclosure rate which is a measure of the precision of the sanitized data. We translate the rate-distortion-equivocation formalism of information theory to the utility-privacy problem and develop a framework that allows us to model data sources, including multi-dimensional databases and data streams, develop application independent utility and privacy metrics, quantify the fundamental bounds on the utility-privacy tradeoffs, and develop a side-information model for dealing with questions of external knowledge. We demonstrate the application of this framework for both numerical and categorical examples. We have also applied this framework to privacy applications with time-series sources and organizational data disclosure.
+<br>
+<b>Link:</b>  n/a
+</div>
+<div class="paper">
+	<span class="authors">
+		<span>Normand Beaudry, Marco Lucamarini, Stefano Mancini and Renato Renner</span>.
+	</span>
+	<span class="title">Security proof of two-way quantum key distribution protocols with partial device independence
+	</span>
+</div>
+<div class="abstract">
+<b>Abstract:</b>
+Proving security of practical quantum key distribution is a challenging task. One of the main obstacles to security in this setting is that the devices used are very difficult to characterize. Device-independent proofs attempt to circumvent this problem by proving security without characterizing the devices. We show a particular method of applying an entropic uncertainty relation can prove security in a partially device-independent way. Specifically, we show security for two 2-way quantum key distribution protocols, in which Bob prepares states, sends them to Alice to be encoded, and she sends them back to Bob.
+<br>
+<b>Link:</b>  n/a
+</div>

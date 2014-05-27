@@ -1,0 +1,49 @@
+<h2>Submission</h2>
+
+<p>
+<b>The submission server is not open yet.</b><br><br>
+
+<h4>
+Deadlines:
+</h4>
+
+<ul class="double">
+<li><b>Conference Track Submission:</b></li>
+<li><b>Sunday November 23, 2014, midnight CET</b></li>
+<li><b>Workshop Track Submission:</b></li>
+<li><b>Sunday December 21, 2014, midnight CET</b></li>
+</ul>
+
+<h4>
+Instructions for Authors
+</h4>
+
+<p class="indent">
+<b>Conference Track:</b> Submissions must not substantially duplicate work published elsewhere or
+submitted in parallel to a journal or any other conference/workshop that has proceedings. The
+submission must be <b>anonymous</b>, with no author names, affiliations, or obvious references. The
+length of the submission must be at most 12 pages excluding bibliography and appendices. The text
+must be in a single column format, use at least 11-point fonts, and have reasonable margins. The
+submission should begin with a title and a short abstract. The introduction should summarize the
+contributions of the paper at a level appropriate for a non-specialist reader. Committee members
+are not required to read appendices; the paper should be intelligible without them. Submissions
+should preferably be in PDF format.
+</p>
+
+<p class="indent">
+<b>Workshop track:</b> Authors may submit a paper published elsewhere or an original manuscript.
+As with the conference track, submissions should begin with a title and short abstract followed
+by an introduction that summarizes the contributions at a level appropriate for a non-specialist
+reader. Information about previous publication, if any, should be indicated on the first page of
+the submission. Beyond these guidelines no specific format is required. In particular, (a) papers
+previously published elsewhere may be submitted in their published form provided bibliographic
+information is clearly indicated; (b) short summaries of works available in other venues or online
+(on the arxiv or IACR eprint) are acceptable; (c) original submissions may be left anonymous at
+the discretion of the authors. (Previously published submissions cannot be anonymous.)
+</p>
+
+<p>Authors of accepted papers are expected to present their paper(s) at the conference.</p>
+
+
+<p>There is no restriction on program committee member submissions to either track, though
+PC-authored papers will be held to a higher standard.</p>

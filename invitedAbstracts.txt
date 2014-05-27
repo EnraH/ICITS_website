@@ -1,0 +1,161 @@
+<h2>Invited Speakers with Abstracts</h2>
+
+<div class="paper">
+	<span class="authors">
+		<span>Alexander Vardy <i>(University of California, San Diego)</i></span>.
+	</span>
+	<span class="title">Semantic security in the physical layer
+	</span>
+</div>
+<div class="abstract">
+<b>Abstract:</b>
+Physical-layer security
+has many advantages over conventional cryptography. In theory,
+physical-layer security eliminates the need for assumptions of
+computational hardness, since it is computationally unbounded. In
+practice, it eliminates the need for key distribution and management,
+since it is keyless. Moreover, physical-layer security is a very
+active area of research in information theory and communications, with
+numerous results readily available.
+<br>
+However, how exactly is physical-layer security measured and
+established? The fundamental underlying model for physical-layer
+security is the wiretap channel, and the conventional metric of
+security for wiretap channels is based on the mutual information
+between the message and adversary's observations. We call this
+mutual-information security (MIS). Unfortunately, this notion is
+largely foreign to cryptographers. Conversely, semantic security (SS),
+widely regarded as the gold standard for privacy in modern
+cryptography, is largely unknown to information theorists and has
+never been even defined in the context of wiretap channels.
+<br>
+In this work, we rigorously define the notion of semantic security for
+wiretap channels. We then prove that mutual-information security and
+semantic security are asymptotically equivalent. While at it, we also
+introduce two other natural metrics of security: recovery security
+(RS) and distinguishing security (DS). We show that RS, DS, MIS, and
+SS are all asymptotically equivalent. More importantly, we also give
+rigorous *non-asymptotic* definitions for all the four metrics of
+security and establish precise quantitative relations between them.
+<br>
+So, how can semantic security in the physical layer be achieved with
+optimal data rate and explicit polynomial-time encryption and
+decryption? The easier problem of explicitly achieving
+mutual-information security for wiretap channels has been open for
+over three decades. If time permits, we will describe not one but two
+explicit coding schemes for a general class of symmetric and degraded
+wiretap channels, both providing semantic security at optimal rates.
+One of the schemes is based on polar codes (it is mainly
+information-theoretic) and the other on invertible extractors (it is
+mainly cryptographic).
+<br>
+Based on joint works with Mihir Bellare, Hessam Mahdavifar, and Stefano Tessaro.
+</div>
+
+<div class="paper">
+	<span class="authors">
+		<span>Krzysztof Pietrzak <i>(IST Austria)</i></span>.
+	</span>
+	<span class="title">How to Fake Auxiliary Input</span>
+</div>
+<div class="abstract">
+<b>Abstract:</b>
+We show that for any 
+joint distribution $(X,A)$ over ${\cal X}\times\{0,1\}^\ell$ and any 
+family ${\cal F}$ of distinguishers, there exists a
+simulator $h$ such that (1) no function 
+in ${\cal F}$ can distinguish $(X,A)$ from $(X,h(X))$ with advantage 
+$\epsilon$ and (2) $h$ is only $O(\ell^22^{2\ell}\epsilon^{-4}\log^2(\epsilon^{-1}))$
+times less efficient than functions in ${\cal F}$. For most interesting
+settings of the parameters (in particular, the cryptographic case
+where $X$ has superlogarithmic min-entropy, $\epsilon > 0$ is
+negligible and ${\cal F}$ consists of circuits of polynomial size), we
+can make the simulator $h$ \emph{deterministic}.
+<br>
+Several results, including a strong version of the Dense Model
+Theorem, follow as simple corollaries. One motivation for this
+work is to simplify leakage-resilience proofs which currently use the
+dense model theorem.
+<br>
+This is joint work with Dimitar Jetchev.
+</div>
+
+<div class="paper">
+	<span class="authors">
+		<span>Negar Kiyavash <i>(University of Illinois at Urbana-Champaign)</i></span>.
+	</span>
+	<span class="title">Timing side channels: quantifying and mitigating the threat
+	</span>
+</div>
+<div class="abstract">
+<b>Abstract:</b>
+In multi-tasking systems where a finite resource is to be shared, a scheduler dictates how the resource is divided among competing processes. Examples of systems which have schedulers include, a computer where the CPU needs to be shared between the different threads running, a cloud computing infrastructure with shared computing resources, a network router serving packets from different streams etc.. In such situations, when a processor is shared by multiple users, the delays experienced by jobs from one user are a function of the arrival pattern of jobs from other users, and the scheduling policy of the server. Consequently, a scheduling system creates a timing side channel in which information about arrival pattern from one user is inadvertently leaked to another. In this talk, this information leakage is studied for a two user scheduling system from both information-theoretic and detection-theoretic viewpoints.  We demonstrate that commonly used scheduling policies such as the first come first served and round-robin fare poorly in terms of preserving a user's privacy. That is, a malicious attacker can learn the arrival pattern from the other user accurately if one of these scheduling policies is used. Furthermore, we prove that no scheduler can provide maximum privacy without idling/taking vacations, and consequently no policy can simultaneously be delay and privacy optimal. We also propose a scheduling policy called the accumulate and serve, a parametrizable throughput optimal scheduling policy that trades-off delay for enhanced privacy.
+</div>
+
+
+<div class="paper">
+	<span class="authors">
+		<span>Patrick Hayden <i>(McGill University)</i></span>.
+	</span>
+	<span class="title">Information locking from asymptotic geometry
+	</span>
+</div>
+<div class="abstract">
+<b>Abstract:</b>
+In quantum mechanics, measurement generically causes disturbance. The art in designing a quantum key distribution system is to ensure that eavesdropping necessarily causes a detectable disturbance. In this talk, I'll present systems in which eavesdropping, instead of being detectable, is simply useless because it completely obliterates the targeted information. The end result will be a form of entropic encryption known as information locking capable of encrypting an n-bit message using a constant-sized secret key.
+<br>
+From a mathematical perspective, the task is to find bases satisfying strong uncertainty relations.
+Position and momentum lead the way: it's hard to do better than any orthonormal basis and its Fourier transform. The natural generalization to so-called mutually unbiased bases, however, leaves a bit to be desired when it comes to uncertainty relations. Reframing the search in terms of low-distortion embeddings instead leads to bases satisfying much stronger uncertainty relations than had previously been known, plus a wealth of applications in quantum information theory including explicit information locking procedures. For the less quantum-inclined, I'll re-interpret this last result as a connection between low-distortion embeddings and Johnson-Lindenstrauss-style dimensional reduction.
+</div>
+
+
+<div class="paper">
+	<span class="authors">
+		<span>Salil Vadhan <i>(Harvard)</i></span>.
+	</span>
+	<span class="title">The Many Entropies of One-Way Functions
+	</span>
+</div>
+<div class="abstract">
+<b>Abstract:</b>
+One of the major achievements of research in complexity-based cryptography has been to show that a rich variety of complex cryptographic tasks can be accomplished based on the simple assumption that there exists a one-way function (a function that is computationally easy to evaluate, but hard to invert).   However, many of the constructions from arbitrary one-way functions (i.e. ones that are not regular) were very inefficient and complicated, and understood by relatively few researchers in the field.
+<br>
+In this talk, I will discuss a series of recent works that have given much simpler and more efficient constructions of cryptographic primitives from one-way functions.   These new constructions have been obtained by defining new computational analogues of entropy (e.g. "next-bit pseudoentropy" and "inaccessible entropy") to capture the primitive interest, showing that one-way functions already have a little bit of this computational entropy, and then using appropriate forms of repetition and hashing to manipulate and amplify this entropy.   
+<br>
+In particular, I will describe a construction of pseudorandom generators of seed length O(n^3) from a one-way function on n bits, improving the seed length of O(n^8) in the classic construction of Hastad, Impagliazzo, Levin, and Luby.
+<br>
+Based Joint works with (various subsets of) Iftach Haitner, Thomas Holenstein, Omer Reingold, Hoeteck Wee, and Colin Jia Zheng.
+</div>
+
+<div class="paper">
+	<span class="authors">
+		<span>Serge Fehr <i>(CWI Amsterdam)</i></span>.
+	</span>
+	<span class="title">Reconstruction of a shared secret in the presence of faults
+	</span>
+</div>
+<div class="abstract">
+<b>Abstract:</b>
+I consider the problem of reconstructing a shared secret in the presence of faulty shares, with unconditional security. We require that any t shares give no information on the shared secret, and reconstruction is possible even if up to t out of the n shares are incorrect. The interesting setting is n/3 <= t < n/2, where reconstruction of a shared secret in the presence of faulty shares is possible, but only with an increase in the share size, and only if one admits a small failure probability.<br>
+I will give an overview over known solutions. The first one, which is due to Rabin and Ben-Or, suffers from large shares of size Omega(k*n), where k is the security parameter, and the second one, due to Cramer, Damgard, and Fehr, has close to optimal share size O(k + n) but is computationally inefficient. Then, I will present a new solution that combines the advantages of the two: it has short shares of size roughly O(k + n log(n)) and runs in polynomial time.<br>
+Interestingly, the shares in our new scheme are as in the scheme by Rabin and Ben-Or, which relies on message authentication, but we use a message authentication code with short tags and keys and with correspondingly weak security. The short tags and keys give us the required saving in the share size. Surprisingly, we can compensate for the weakened security of the authentication and achieve an exponentially small (in k) failure probability by means of a more sophisticated reconstruction procedure.<br>
+This is joint work with Alfonso Cevallos, Rafail Ostrovsky, and Yuval Rabani.
+</div>
+
+
+<div class="paper">
+	<span class="authors">
+		<span>Xin Li <i>(University of Washington)</i></span>.
+	</span>
+	<span class="title">Non-malleable extractors, non-malleable condensers and their applications
+	</span>
+</div>
+<div class="abstract">
+<b>Abstract:</b>
+Randomness is a valuable resource in computing. For example, in cryptography, truly uniform random bits are required to ensure the security of various protocols. However, real world random phenomena are almost never truly uniform, and tend to be distributions with unknown biases. To deal with such imperfect randomness, researchers have come up with tools such as extractors and condensers. An extractor is an information theoretic object that takes as input an arbitrary distribution with a certain amount of entropy and outputs a distribution that is close to uniform. A condenser is a generalization and relaxation of an extractor that only requires the output to have high entropy. These objects have been studied extensively and have found many other applications in computer science.
+<br>
+Recently, in the study of an important cryptographic problem--privacy amplification with an active adversary, a new kind of extractors and condensers were introduced. These are known as non-malleable extractors (introduced by Dodis and Wichs, STOC'09) and non-malleable condensers (introduced by Li, STOC'12). These objects are strengthening of regular extractors and condensers, and have certain "non-malleable" properties that enable their applications in the privacy amplification problem. The constructions of such objects are highly non-trivial.
+<br>
+In this talk, I will discuss non-malleable extractors and non-malleable condensers. I will survey some recent results on constructing these objects, as well as the related problem of privacy amplification with an active adversary.
+</div>
+

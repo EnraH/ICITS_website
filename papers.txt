@@ -1,0 +1,178 @@
+<h2>Accepted Papers for ICITS 2015</h2>
+<p>
+<!--<a href="#abstracts">Papers with Abstracts</a>-->
+</p>
+<h3>Conference Track</h3>
+<!--
+<div class="paper">
+	<span class="authors">
+		<span>Martin Hirt, Christoph Lucas, Ueli Maurer and Dominik Raub</span>.
+	</span>
+	<span class="title">
+		Passive Corruption in Statistical Multi-Party Computation
+	</span>
+</div>
+<div class="paper">
+	<span class="authors">
+		<span>Ronald Cramer, Ivan Damgård and Valerio Pastro</span>.
+	</span>
+	<span class="title">
+		On the Amortized Complexity of Zero Knowledge Protocols for Multiplicative Relations
+	</span>
+</div>
+<div class="paper">
+	<span class="authors">
+		<span>Maki Yoshida, Toru Fujiwara and Marc Fossorier</span>.
+	</span>
+	<span class="title">
+		Optimum General Threshold Secret Sharing
+	</span>
+</div>
+<div class="paper">
+	<span class="authors">
+		<span>Marcel Keller, Gert Læssøe Mikkelsen and Andy Rupp</span>.
+	</span>
+	<span class="title">
+		Efficient Threshold Zero-Knowledge with Applications to User-Centric Protocols
+	</span>
+</div>
+<div class="paper">
+	<span class="authors">
+		<span>Yohei Watanabe, Takenobu Seito and Junji Shikata</span>.
+	</span>
+	<span class="title">
+		Information-Theoretic Timed-Release Security: Key-Agreement, Encryption and Authentication Code
+	</span>
+</div>
+<div class="paper">
+	<span class="authors">
+		<span>Alain Tapp, Samuel Ranellucci, Anne Broadbent and Stacey Jeffery</span>.
+	</span>
+	<span class="title">
+		Trading Robustness for Correctness and Privacy in Certain Multiparty Computations, Beyond an Honest Majority
+	</span>
+</div>
+<div class="paper">
+	<span class="authors">
+		<span>Bernardo M. David, Anderson Nascimento and Jörn Müller-Quade</span>.
+	</span>
+	<span class="title">
+		Universally Composable Oblivious Transfer from Lossy Encryption and the McEliece Assumptions
+	</span>
+</div>
+<div class="paper">
+	<span class="authors">
+		<span>Nico Döttling, Daniel Kraschewski and Jörn Müller-Quade</span>.
+	</span>
+	<span class="title">
+		Statistically Secure Linear-Rate Dimension Extension for Oblivious Affine Function Evaluation
+	</span>
+</div>
+<div class="paper">
+	<span class="authors">
+		<span>Ran Canetti, Ben Riva and Guy Rothblum</span>.
+	</span>
+	<span class="title">
+		Two Protocols for Delegation of Computation
+	</span>
+</div>
+
+<div class="paper">
+	<span class="authors">
+		<span>Mohsen Alimomeni and Reihaneh Safavi-Naini</span>.
+	</span>
+	<span class="title">
+		Guessing secrecy and its randomness requirement
+	</span>
+</div>
+
+<div class="paper" style="border-bottom: solid #bbbbbb 1px;" >
+	<span class="authors">
+		Yevgeniy Dodis.
+	</span>
+	<span class="title">
+		Shannon Impossibility, Revisited
+	</span>
+</div>
+-->
+
+<h3>Workshop Track</h2>
+<!--<div class="paper">
+	<span class="authors">
+		<span>Mark M. Wilde and Joseph M. Renes</span>.
+	</span>
+	<span class="title">Polar codes for private classical communication 
+	</span>
+</div>
+<div class="paper">
+	<span class="authors">
+		<span>Nico Döttling, Daniel Kraschewski and Jörn Müller-Quade</span>.
+	</span>
+	<span class="title">David & Goliath Oblivious Affine Function Evaluation 
+	</span>
+</div>
+<div class="paper">
+	<span class="authors">
+		<span>Jonathan Katz, Fang Song, Hong-Sheng Zhou and Vassilis Zikas</span>.
+	</span>
+	<span class="title">Feasibility and Completeness of Cryptographic Tasks in the Quantum World 
+	</span>
+</div>
+<div class="paper">
+	<span class="authors">
+		<span>Vinod M Prabhakaran and Manoj M Prabhakaran</span>.
+	</span>
+	<span class="title">Bounds for Secure Two-Party Sampling from a Generalization of Common Information
+	</span>
+</div>
+<div class="paper">
+	<span class="authors">
+		<span>Roger Colbeck and Renato Renner</span>.
+	</span>
+	<span class="title">Improving the quality of Santha-Vazirani sources
+	</span>
+</div>
+<div class="paper">
+	<span class="authors">
+		<span>Nishanth Chandran, Juan Garay and Rafail Ostrovsky</span>.
+	</span>
+	<span class="title">Almost-Everywhere Secure Computation with Edge Corruptions 
+	</span>
+</div>
+<div class="paper">
+	<span class="authors">
+		<span>Mario Berta, Omar Fawzi and Stephanie Wehner</span>.
+	</span>
+	<span class="title">Quantum to Classical Randomness Extractors
+	</span>
+</div>
+<div class="paper">
+	<span class="authors">
+		<span>Amos Beimel, Yuval Ishai, Eyal Kushilevitz and Ilan Orlov</span>.
+	</span>
+	<span class="title">Share Conversion and Private Information Retrieval 
+	</span>
+</div>
+<div class="paper">
+	<span class="authors">
+		<span>Benjamin Fuller, Adam O'Neill and Leonid Reyzin</span>.
+	</span>
+	<span class="title">A Unified Approach to Deterministic Encryption: New Constructions and a Connection to Computational Entropy
+	</span>
+</div>
+<div class="paper">
+	<span class="authors">
+		<span>Lalitha Sankar, S. Raj Rajagopalan, and H. Vincent Poor</span>.
+	</span>
+	<span class="title">An Information-theoretic Approach to Privacy
+	</span>
+</div>
+<div class="paper">
+	<span class="authors">
+		<span>Normand Beaudry, Marco Lucamarini, Stefano Mancini and Renato Renner</span>.
+	</span>
+	<span class="title">Security proof of two-way quantum key distribution protocols with partial device independence
+	</span>
+</div>
+-->
+

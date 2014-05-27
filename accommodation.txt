@@ -1,0 +1,48 @@
+<h2>Accommodation</h2>
+
+<!--
+<h4>Terrasse Royale</h4>
+
+109 CAD (+ tax) per night. A 10 min walk from the venue. (<a href="http://maps.google.com/maps?saddr=5225+de+la+C%C3%B4te-des-Neiges+Ch,+Montreal,+QC,+Canada+(H%C3%B4tel+Terrasse+Royale)&daddr=Pavillon+Andr%C3%A9-Aisenstadt,+Montreal,+QC,+Canada&hl=en&ie=UTF8&ll=45.498226,-73.618484&spn=0.010227,0.015728&sll=45.499354,-73.619707&sspn=0.010227,0.015728&geocode=FSk2tgIdj6Kc-yGU542d8VtuSg%3BFTNKtgIduLac-ynnjs4I8xnJTDFIbkCyNpd_vw&dirflg=w&mra=ltm&t=m&z=16">view map</a>)<br><br>
+
+Book <a href="http://www.terrasse-royale.com/reservation-en.php">here</a>. Please indicate "ICITS 2012" under "Comments" to get the reduced rate.
+
+<h4>Les Studios Hôtel</h4>
+
+45 - 125 CAD  (+ tax) per night. A 10 min walk from the venue. (<a href="http://maps.google.com/maps?saddr=2450+Boulevard+Edouard-Montpetit,+Montreal,+QC+H3T+1J4,+Canada+(R%C3%A9sidences+Universit%C3%A9+de+Montr%C3%A9al-Les+Studios+Hotel)&daddr=45.5033759,-73.6168781+to:Pavillon+Andr%C3%A9-Aisenstadt,+Montreal,+QC,+Canada&hl=en&ie=UTF8&sll=45.505189,-73.614171&sspn=0.011159,0.016158&geocode=FaxetgIdd7Wc-yGWnernKGlpJCmdTXSQjRnJTDHahXpaYw9WOA%3BFY9TtgIdErKc-ykrSbU0jRnJTDEDtGJCtSxrDQ%3BFTNKtgIduLac-ynnjs4I8xnJTDFIbkCyNpd_vw&dirflg=w&mra=mrv&via=1&t=m&z=16">view map</a>)<br><br>
+
+Book <a href="https://www.studioshotel.ca/reservation.php?lang=en&d=h">here</a>. Please choose "ICITS 2012" under "Event".
+
+
+<h4>Other Options</h4>
+
+<p>There are some nice <a href="http://www.bbcanada.com/quebec/montr%E9al/montreal">Bed &amp; Breakfasts</a> on the <a href="http://www.montreal-travelguide.com/Plateau-Mont-Royal/">Plateau Mont-Royal</a>. Take the Bus 51 or the metro to get to the venue in 25 - 35 min.</p>
+
+
+<p>There are many hotels downtown Montreal. Take the Bus 165 or the metro to get to the venue in 25 - 35 min. </p>
+
+<h2>Tourist Information</h2>
+
+<h4>From the Airport</h4>
+
+A taxi costs about 40 CAD. You can also take the Bus 747 for 8 CAD, and then take the metro at Lionel-Groulx or Berri-UQAM metro station.
+
+<h4>Public Transport</h4>
+
+Timetables for buses are available <a href="http://www.stm.info/">here</a>. A map of the metro is available <a href=" http://www.stm.info/metro/mapmetro.htm">here</a>.
+
+<h4>Bike Rental</h4>
+
+A convenient way to visit Montreal is to rent a <a href="http://montreal.bixi.com">bixi bike</a>. It costs 7 CAD for one day, or 15 CAD for 3 days.
+
+<h4>Places of Interest</h4>
+
+<ul class="single">
+<li><a href="http://maps.google.ca/maps?q=Mount+Royal+Park,+Montr%C3%A9al,+Qu%C3%A9bec&hl=en&ie=UTF8&ll=45.505324,-73.589172&spn=0.022317,0.032315&sll=45.504031,-73.576598&sspn=0.022318,0.032315&gl=ca&hq=Mount+Royal+Park,+Montr%C3%A9al,+Qu%C3%A9bec&t=m&z=15">The park on Mont Royal</a></li>
+<li><a href="http://www.quaysoftheoldport.com/">The old port</a>
+<li><a href="http://maps.google.ca/maps?q=stade+olympique+montreal&client=ubuntu&channel=cs&fb=1&gl=ca&cid=0,0,3090691801685794409&z=16&iwloc=A">The Olympic Stadium</a></li>
+<li><a href="http://www.urbanspoon.com/n/67/6733/Montreal/Plateau-Mont-Royal-restaurants">Restaurants</a> and <a href="http://www.adbeus.com/category/plateau">Cafes</a> on <a href="http://www.montreal-travelguide.com/Plateau-Mont-Royal/">Plateau Mont-Royal</a>
+<li><a href="http://www.crescentmontreal.com/en_crescent_merchants_pubs_clubs_bars.htm">Pubs and Clubs on Crescent Street</a></li>
+</ul>
+
+-->

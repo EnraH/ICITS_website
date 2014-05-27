@@ -1,0 +1,3 @@
+<h2>Contact</h2>
+
+<p>If you have any question, please contact: <a href="mailto:icits15@inf.usi.ch" >icits15@inf.usi.ch</a></p>

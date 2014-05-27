@@ -1,0 +1,27 @@
+<h2>
+Venue
+</h2>
+
+<p>
+ICITS 2015 will take place at the <b>Universit&agrave; della Svizzera italiana</b>, in the <b>Main Building</b>.
+</p>
+
+<div style="overflow:hidden;"><img src="img/usilu.jpg" alt="Main Building"/></div>
+
+<a href="https://www.google.com/maps/place/University+of+Italian+speaking+Switzerland/@46.011031,8.958297,17z/data=!4m2!3m1!1s0x47842d8a7d9d44e1:0x51147d79a8566d60?hl=en">View Map</a>
+
+<h4>How to get there</h4>
+
+<p><b>By car:</b> From the south - Leaving the motorway at the 'Lugano Sud' Exit, follow the signs for the city centre skirting the lake (Lungolago); drive past Casino Kursaal (on your left) and past the Congress Hall (on your right); then turn left and drive straight until you see the University at the top of the street.From the North - Leaving the motorway at the 'Lugano Nord' Exit, follow the signs for the city centre, down the hill and round, through the railway underpass; then further downhill keeping to the left-hand lane, continue to follow the signs for 'University' till you reach Via Buffi.</br>Parking facilities: Please be aware that parking is not easy in the neighbourhood of our campus. The blue parking zone requires a parking disk (max. 2 hours), while the 'white' designated spaces are available on payment. Theunderground car park has limited parking facilities and is on payment (per hour).</p>
+
+<p><b>By train:</b> From Lugano's mainline train station (<a href="http://www.sbb.ch/">www.sbb.ch</a>), catch the funicular down to the centre of town, and weave your way under porticoes and along shop-lined streets, to catch either a 'no. 3' or a 'no. 5' bus, which will take you very close to the University.</p>
+
+<p><b>By air:</b> Located in Agno (about 6 km from Lugano town centre), Lugano-Airport offers direct-flight connections to four main Swiss cities and some European cities (<a href="http://www.lugano-airport.ch">www.lugano-airport.ch</a>).Also, Milano-Malpensa Airport, some 60 km away, may be easily reached by shuttle bus. Timetables and other travel information at: <a href="http://www.giosytours.ch">www.giosytours.ch</a>, <a href="http://www.malpensaexpress.ch">www.malpensaexpress.ch</a>, <a href="http://www.sea-aeroportimilano.it">www.sea-aeroportimilano.it</a> and <a href="http://www.luganoservices.ch">www.luganoservices.ch</a>. The closest Swiss airport with international connections is Zurich Kloten, three hours away by train (<a href="http://www.sbb.ch/">www.sbb.ch</a>).</p>
+
+<h4>Visa requirements</h4>
+
+<p>
+Since 12 December 2008 Switzerland is an associated member state of the Schengen agreement and hence part of the Schengen area. Please check the visa requirements for your nationality under the following link: <a href="https://www.bfm.admin.ch/content/dam/data/bfm/rechtsgrundlagen/weisungen/visa/bfm/bfm-anh01-liste1-e.pdf">Overview of ID and visa provisions according to nationality</a> (PDF). Schengen visas are valid for Switzerland and all other areas of the Schengen member states (providing nothing to the contrary is noted on the visa).The Swiss Federal Department of Justice and Police maintains a list of <a href="https://www.bfm.admin.ch//bfm/en/home/themen/einreise/merkblatt_einreise.html">Frequently Asked Questions</a> regarding Visa issues. You can also find links to websites for <a href="http://www.eda.admin.ch/eda/en/home/reps.html">Swiss embassies and consulates worldwide</a> at the Federal Department of Foreign Affairs. The embassy and consulate websites have very helpful information about procedures, timelines, communities served, required documentation, and fees.</p>
+
+<p><b>Letters from conference organization</b><br>International registrants should be particularly aware and careful about visa requirements, and should plan travel well in advance. Please send your request for a letter in support of a visa application to <b>decanato [dot] inf [at] usi [dot] ch</b>. Use the subject line <b>"XXXXXXX Visa"</b> and include your name, mailing address, and fax number. Also make sure to indicate which embassy/consulate you are applying to. Authors of accepted papers/posters/etc. should also include the title.
+</p>

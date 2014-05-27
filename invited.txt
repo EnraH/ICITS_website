@@ -1,0 +1,22 @@
+<h2>Invited Speakers</h2>
+
+<p>
+The following invited speakers will be presenting at ICITS 2015: 
+</p>
+
+<ul class="double" style="width:650px;">
+<!--
+<li>Serge Fehr <i>(CWI Amsterdam)</i></li>
+<li>Patrick Hayden <i>(McGill University)</i></li>
+<li style="width:600px;">Negar Kiyavash <i>(University of Illinois at Urbana-Champaign)</i></li>
+<li>Xin Li <i>(University of Washington)</i></li>
+<li>Krzysztof Pietrzak <i>(IST Austria)</i></li>
+<li>Alexander Vardy <i>(University of California, San Diego)</i></li>
+<li>Salil Vadhan <i>(Harvard University, Boston)</i></li>
+-->
+</ul>
+
+<p>
+<!--<a href="#invitedAbstracts">Invited Speakers with Abstracts</a>-->
+</p>
+

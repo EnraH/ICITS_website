@@ -1,0 +1,28 @@
+<h2>Registration</h2>
+
+<p>The registration server is not open yet.</p>
+
+<!--
+<p>The fees, including tax, are as follows:</p>
+
+<ul class="double">
+<li>Student, early:</li>
+<li>200 CAD</li>
+<li>Student, late:</li>
+<li>300 CAD</li>
+<li>Regular, early:</li>
+<li>400 CAD</li>
+<li>Regular, late:</li>
+<li>500 CAD</li>
+<li>Guest for banquet:</li>
+<li>80 CAD</li>
+</ul>
+
+<b>Online registration has been closed</b>. 
+Please contact us if you still would like to register.
+<br><br>
+The registration includes a reception, a conference dinner, 2 lunches and coffee breaks.
+<br><br>
+Please don't forget to book your <a href="#accommodation">accommodation</a> in time. August is high season in Montreal.
+</p>
+-->

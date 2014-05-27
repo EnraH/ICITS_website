@@ -1,0 +1,9 @@
+<h3>Reconstruction of a shared secret in the presence of faults</h3>
+<p>Serge Fehr</p>
+<p>
+<b>Abstract:</b>
+I consider the problem of reconstructing a shared secret in the presence of faulty shares, with unconditional security. We require that any t shares give no information on the shared secret, and reconstruction is possible even if up to t out of the n shares are incorrect. The interesting setting is n/3 <= t < n/2, where reconstruction of a shared secret in the presence of faulty shares is possible, but only with an increase in the share size, and only if one admits a small failure probability.<br>
+I will give an overview over known solutions. The first one, which is due to Rabin and Ben-Or, suffers from large shares of size Omega(k*n), where k is the security parameter, and the second one, due to Cramer, Damgard, and Fehr, has close to optimal share size O(k + n) but is computationally inefficient. Then, I will present a new solution that combines the advantages of the two: it has short shares of size roughly O(k + n log(n)) and runs in polynomial time.<br>
+Interestingly, the shares in our new scheme are as in the scheme by Rabin and Ben-Or, which relies on message authentication, but we use a message authentication code with short tags and keys and with correspondingly weak security. The short tags and keys give us the required saving in the share size. Surprisingly, we can compensate for the weakened security of the authentication and achieve an exponentially small (in k) failure probability by means of a more sophisticated reconstruction procedure.<br>
+This is joint work with Alfonso Cevallos, Rafail Ostrovsky, and Yuval Rabani.
+</p>

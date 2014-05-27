@@ -1,0 +1,110 @@
+<h2>8th International Conference on Information Theoretic Security (ICITS)</h2>
+
+<p>
+ICITS is a conference about all aspects of information-theoretic
+security and brings together the leading researchers in the areas of
+cryptography, information theory and quantum information. It is the successor conference to the 2005 IEEE Information Theory Workshop on Theory and Practice in Information - Theoretic Security (ITW 2005) on Awaji Island, Japan. Previous ICITS conferences were held in:
+</p>
+<ul class="single">
+<li><a href="http://www.spms.ntu.edu.sg/mas/conference/icits2013/">ICITS 2013</a> in Singapore.</li>
+<li>ICITS 2012 in Montreal, Canada.</li>
+<li><a href="http://event.cwi.nl/icits2011/">ICITS 2011</a> in Amsterdam, The Netherlands.</li>
+<li><a href="http://www.rcis.aist.go.jp/ICITS2009/">ICITS 2009</a> in Shizuoka, Japan,</li>
+<li><a href="http://www.iqis.org/events/icits2008/">ICITS 2008</a> in Calgary, Canada,</li>
+<li><a href="http://www.escet.urjc.es/~matemati/maribel/ICITS/ITS07.htm">ICITS 2007</a> in Madrid, Spain,</li>
+</ul>
+
+<p>
+ICITS 2015 will be held from <b>May 2 to 5</b>, and it takes place at <b><a href="http://www.usi.ch/">Universit&agrave; della Svizzera italiana (USI)</a></b> in Lugano, Switzerland.
+</p>
+
+<p>Topics of interest include (but are not restricted to):
+
+<ul class="double">
+<li>Physical layer security</li>
+<li>Multiparty computations</li>
+<li>Codes, lattices & cryptography</li>
+<li>Authentication codes</li>
+<li>Randomness extraction</li>
+<li>Cryptography from noisy channels</li>
+<li>Wiretap channels</li>
+<li>Bounded-storage models</li>
+<li>Information-theoretic reductions</li>
+<li>Quantum cryptography</li>
+<li>Quantum information theory</li>
+<li>Nonlocality and nonsignaling</li>
+<li>Key and message rates</li>
+<li>Secret sharing</li>
+<li>Physical models & assumptions</li>
+<li>Network coding security</li>
+<li>Adversarial channel models</li>
+<li>Information-theoretic tools in computational settings</li>
+<li>Implementation challenges</li>
+<li>Biometric security</li>
+</ul>
+
+<p>
+The proceedings of the conference will be published by Springer in Lecture Notes in Computer Science.
+</p>
+
+<h4>
+Conference Organization
+</h4>
+
+<p class="indent">
+<b>General Chairs</b>:<br>
+Anja Lehmann <i>(IBM Research, Zurich)</i><br>
+Stefan Wolf <i>(USI, Lugano)</i>
+</p>
+
+<p class="indent">
+<b>Program Chairs</b>:<br>
+Anja Lehmann <i>(IBM Research, Zurich)</i><br>
+Stefan Wolf <i>(USI, Lugano)</i>
+</p>
+
+<h4>
+Program Committee
+</h4>
+
+<ul class="double">
+<li>Paulo Barreto <i>(Universidade de S&atilde;o Paulo)</i></li>
+<li>Gilles Brassard <i>(Universit&eacute; de Montr&eacute;al)</i></li>
+<li>Anne Broadbent <i>(Univeristy of Ottawa)</i></li>
+<li>Paolo D'Arco <i>(Universit&agrave; degli Studi di Salerno)</i></li>
+<li>Fr&eacute;d&eacute;ric Dupuis <i>(Aarhus Universitet)</i></li>
+<li>Stefan Dziembowski <i>(University of Warsaw)</i></li>
+<li>Sebastian Faust <i>(EPFL)</i></li>
+<li>Omar Fawzi <i>(ETH)</i></li>
+<li>Serge Fehr <i>(CWI Amsterdam)</i></li>
+<li>Yuval Ishai <i>(Technion)</i></li>
+<li>Robert K&ouml;nig <i>(University of Waterloo)</i></li>
+<li>Anderson Nascimento <i>(Universidade de Bras&iacute;lia)</i></li>
+<li>Prakash Narayan <i>(University of Maryland)</i></li>
+<li>Koji Nuida <i>(AIST)</i></li>
+<li>Fr&eacute;d&eacute;rique Oggier <i>(Nanyang Technological University)</i></li>
+<li>Claudio Orlandi <i>(Aarhus Universitet)</i></li>
+<li>Carles Padro <i>(Nanyang Technological University)</i></li>
+<li>Krzysztof Pietrzak <i>(IST Austria)</i></li>
+<li>Leo Reyzin <i>(Boston University)</i></li>
+<li>Reihaneh Safavi-Naini <i>(University of Calgary)</i></li>
+<li>Louis Salvail <i>(Universit&eacute; de Montr&eacute;al)</i></li>
+<li>Christian Schaffner <i>(CWI Amsterdam)</i></li>
+</ul>
+
+<h4>
+Steering Committee
+</h4>
+
+<ul class="double">
+<li>Carlo Blundo <i>(University of Salerno)</i></li>
+<li>Ronald Cramer <i>(CWI &amp; Leiden University)</i></li>
+<li>Yvo Desmedt, chair <i>(University College London)</i></li>
+<li>Hideki Imai <i>(University of Tokyo)</i></li>
+<li>Kaoru Kurosawa <i>(Ibaraki University)</i></li>
+<li>Ueli Maurer <i>(ETH Zurich)</i></li>
+<li>C. Pandu Rangan <i>(IIT, Chennai)</i></li>
+<li>Rei Safavi-Naini <i>(University of Calgary)</i></li>
+<li>Moti Yung <i>(Google &amp; Columbia University)</i></li>
+<li>Yulian Zheng <i>(University of North Carolina)</i></li>
+</ul>
