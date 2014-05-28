@@ -136,7 +136,7 @@ $activePages = array(
 	</script> 
 </head>
 <body>
-<div align="center">
+<div id="header">
 				<img src="img/icits60.png" alt="icits">
 </div>
 <!--
@@ -174,26 +174,20 @@ $activePages = array(
 
 	<div id="menu">
 		<ul>
-			<li><a onclick="pageClick('home'); return false;" href="?">Home</a></li>
-			<li><a onclick="pageClick('call'); return false;" href="?page=call">Call for Papers</a></li>
-			<li><a onclick="pageClick('submission'); return false;" href="?page=submission">Submission</a></li>
-			<li><a onclick="pageClick('invited'); return false;" href="?page=invited">Invited Speakers</a></li>
-			<li><a onclick="pageClick('papers'); return false;" href="?page=papers">Accepted Papers</a></li>
-			<li><a onclick="pageClick('program'); return false;" href="?page=program">Program</a></li>
-			<li><a onclick="pageClick('venue'); return false;" href="?page=venue">Venue</a></li>
-			<li><a onclick="pageClick('registration'); return false;" href="?page=registration">Registration</a></li>
-			<li><a onclick="pageClick('accommodation'); return false;" href="?page=accommodation">Accommodation</a></li>
-			<li><a onclick="pageClick('contact'); return false;" href="?page=contact">Contact</a></li>
+			<li class="menu-toplevel"><a onclick="pageClick('home'); return false;" href="?">Home</a></li>
+      <li class="menu-toplevel"><a onclick="pageClick('home'); return false;" href="?">Papers</a>
+      <ul>
+        <li class="menu-level-1"><a onclick="pageClick('call'); return false;" href="?page=call">Call for Papers</a></li>
+        <li class="menu-level-1"><a onclick="pageClick('submission'); return false;" href="?page=submission">Submission</a></li>
+        <li class="menu-level-1"><a onclick="pageClick('invited'); return false;" href="?page=invited">Invited Speakers</a></li>
+        <li class="menu-level-1"><a onclick="pageClick('papers'); return false;" href="?page=papers">Accepted Papers</a></li>
+      </ul></li>
+			<li class="menu-toplevel"><a onclick="pageClick('program'); return false;" href="?page=program">Program</a></li>
+			<li class="menu-toplevel"><a onclick="pageClick('venue'); return false;" href="?page=venue">Venue</a></li>
+			<li class="menu-toplevel"><a onclick="pageClick('registration'); return false;" href="?page=registration">Registration</a></li>
+			<li class="menu-toplevel"><a onclick="pageClick('accommodation'); return false;" href="?page=accommodation">Accommodation</a></li>
+			<li class="menu-toplevel"><a onclick="pageClick('contact'); return false;" href="?page=contact">Contact</a></li>
 		</ul>
-	</div>
-
-	<div id="sponsors">
-		<h4>Sponsors:</h4>
-		<a href="http://www.usi.ch/"><img alt="USI" id="USI" width="150" src="img/logo-usi.gif" /></a>
-		<a href="http://www.zurich.ibm.com/"><img alt="ibm" id="ibm" width="150" src="img/logo-ibm.jpg" /></a>
-
-		<h4>In cooperation with:</h4>
-		<a href="http://www.iacr.org/"><img alt="iacr" id="iacr" width="85" src="http://www.iacr.org/forms/logo/iacrlogo.gif" /></a>
 	</div>
 
 	<div id="content">
@@ -209,5 +203,14 @@ $activePages = array(
 
 	?>
 	</div>
+	<div id="sponsors">
+		<h4>Sponsors:</h4>
+		<a href="http://www.usi.ch/"><img alt="USI" id="USI" width="150" src="img/logo-usi.gif" /></a>
+		<a href="http://www.zurich.ibm.com/"><img alt="ibm" id="ibm" width="150" src="img/logo-ibm.jpg" /></a>
+
+		<h4>In cooperation with:</h4>
+		<a href="http://www.iacr.org/"><img alt="iacr" id="iacr" width="85" src="http://www.iacr.org/forms/logo/iacrlogo.gif" /></a>
+	</div>
+
 </body>
 </html>

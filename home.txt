@@ -1,4 +1,6 @@
-<h2>8th International Conference on Information Theoretic Security (ICITS)</h2>
+<h1>8th International Conference on Information Theoretic Security (ICITS)</h1>
+
+<h5>2-5 May 2015, Lugano, Switzerland</h5>
 
 <p>
 ICITS is a conference about all aspects of information-theoretic
