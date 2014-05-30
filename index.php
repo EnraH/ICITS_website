@@ -205,8 +205,8 @@ $activePages = array(
 	</div>
 	<div id="sponsors">
 		<h4>Sponsors:</h4>
-		<a href="http://www.usi.ch/"><img alt="USI" id="USI" width="150" src="img/logo-usi.gif" /></a>
-		<a href="http://www.zurich.ibm.com/"><img alt="ibm" id="ibm" width="150" src="img/logo-ibm.jpg" /></a>
+		<a href="http://www.usi.ch/"><img alt="USI" id="USI" height="86" src="img/logo-usi.gif" /></a>
+		<a href="http://www.zurich.ibm.com/"><img alt="ibm" id="ibm" height="86" src="img/logo-ibm.jpg" /></a>
 
 		<h4>In cooperation with:</h4>
 		<a href="http://www.iacr.org/"><img alt="iacr" id="iacr" width="85" src="http://www.iacr.org/forms/logo/iacrlogo.gif" /></a>
