@@ -137,7 +137,7 @@ $activePages = array(
 </head>
 <body>
 <div id="header">
-				<img src="img/icits60.png" alt="icits">
+				<img width="100%" src="img/icits60.png" alt="icits">
 </div>
 <!--
 	<div id="makeMeScrollable">
