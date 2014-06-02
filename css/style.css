@@ -62,26 +62,26 @@ div#sponsors {
   border-top:1px solid;
   color:#ffffff;
   background-color:#005e7e;
-	//font:14px arial,sans-serif;
+	font-size:16px;
 	position:fixed;
-  height:30px;
+  height:28px;
   overflow: hidden;
   bottom:0px;
   left:0px;
 	width: 100%;
   opacity:0.7;
 	//border:1px solid #eeeeee; 
-	padding-left:60px;
-  padding-top:10px
+	padding-left:20px;
+  padding-top:12px;
 }
 
 div#sponsors:hover {
   opacity:0.9;
-  height:140px;
+  height:auto;
   }
 
 #sponsors img {
-  height:86px;
+  max-height:86px;
   vertical-align: baseline;
   }
 
