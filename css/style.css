@@ -1,8 +1,8 @@
-@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro);
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300);
 body {
   background: #CCCCCC;
-  font: 13.34px Source Sans Pro, sans-serif;
-  font-size: small;
+  font: 14px Source Sans Pro, sans-serif;
+  //font-size: small;
   margin: 0 auto;
   max-width: 800px;
  }
@@ -58,19 +58,39 @@ p {margin-top:1em; margin-bottom:1em}
 #title2 {font-size:21px; padding:5px;}
 #title3 {font-size:20px; padding:5px;}
 
-#sponsors {
+div#sponsors {
   border-top:1px solid;
   color:#ffffff;
   background-color:#005e7e;
 	//font:14px arial,sans-serif;
-	//position:absolute;
-	//left:8px;
-	//top:564px;
-	//width: 170px;
+	position:fixed;
+  height:30px;
+  overflow: hidden;
+  bottom:0px;
+  left:0px;
+	width: 100%;
+  opacity:0.7;
 	//border:1px solid #eeeeee; 
-	padding-left:20px;
-  padding-top:20px
+	padding-left:60px;
+  padding-top:10px
 }
+
+div#sponsors:hover {
+  opacity:0.9;
+  height:140px;
+  }
+
+#sponsors img {
+  height:86px;
+  vertical-align: baseline;
+  }
+
+#sponsors a {
+  }
+
+#sponsors table {
+  border: 0px;
+  }
 
 #iqc { margin-bottom:8px;}
 #crm { margin-bottom:8px;}
@@ -91,7 +111,7 @@ img#header {
   }
 
 #menu {
-	font:14px;
+	//font:14px;
   background-color:#005e7e;
   color:#FFF;
 	/*position:absolute;
@@ -193,15 +213,15 @@ ul.double li{
   padding-bottom:30px;
 	/*margin:10px; margin-left:192px;  margin-right:0px;*/
 	border:0px solid #eeeeee;
-	font:14px arial,sans-serif;
+	//font:14px arial,sans-serif;
 	min-width:340px;
 	max-width:800px;
   background-color: #ffffff;
 }
 
 #content h1 {
-  font-size: 250%;
-  font-weight:200;
+  font-size: 300%;
+  font-weight:300;
   text-transform:uppercase;
   }
 
@@ -217,7 +237,7 @@ ul.double li{
   }
 
 #content h5 {
-  font-size:14px;
+  font-size:16px;
   text-align:right;
   }
   

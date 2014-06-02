@@ -1,4 +1,4 @@
-<h1>8th International Conference on Information Theoretic Security (ICITS)</h1>
+<h1>8<sup>th</sup> International Conference on Information Theoretic Security (ICITS)</h1>
 
 <h5>2-5 May 2015, Lugano, Switzerland</h5>
 
