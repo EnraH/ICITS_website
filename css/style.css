@@ -1,10 +1,15 @@
 @import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300);
 body {
-  background: #CCCCCC;
+  background: #817f7e;
+  //background-image:url("img/background.JPG");
+  //background-repeat:no-repeat;
+  //background-position: right-top;
   font: 14px Source Sans Pro, sans-serif;
   //font-size: small;
   margin: 0 auto;
   max-width: 800px;
+  padding-left:30px;
+  padding-right:30px;
  }
 
 
@@ -18,12 +23,12 @@ a:visited {
   }
 
 a:active {
-  color: #da3d00;
+  color: #ce5f34;
   }
 
 a:hover {
   text-decoration:underline;
-  color: #da3d00;
+  color: #ce5f34;
   }
 
 a img { border: none; }
@@ -59,7 +64,7 @@ p {margin-top:1em; margin-bottom:1em}
 #title3 {font-size:20px; padding:5px;}
 
 div#sponsors {
-  border-top:1px solid;
+  //border-top:1px solid;
   color:#ffffff;
   background-color:#005e7e;
 	font-size:16px;
@@ -69,14 +74,14 @@ div#sponsors {
   bottom:0px;
   left:0px;
 	width: 100%;
-  opacity:0.7;
+  //opacity:0.7;
 	//border:1px solid #eeeeee; 
 	padding-left:20px;
   padding-top:12px;
 }
 
 div#sponsors:hover {
-  opacity:0.9;
+  //opacity:0.9;
   height:auto;
   }
 
@@ -145,7 +150,7 @@ img#header {
 }
 
 #menu li:hover{
-  background-color: #da3d00;
+  background-color: #ce5f34;
 }
 
 li.menu-toplevel {
@@ -209,8 +214,10 @@ ul.double li{
 }
 
 #content {
-	padding:10px; padding-left:20px;
-  padding-bottom:30px;
+	padding-left:60px;
+	padding-right:60px;
+  padding-top:10px;
+  padding-bottom:50px;
 	/*margin:10px; margin-left:192px;  margin-right:0px;*/
 	border:0px solid #eeeeee;
 	//font:14px arial,sans-serif;
@@ -222,23 +229,32 @@ ul.double li{
 #content h1 {
   font-size: 300%;
   font-weight:300;
-  text-transform:uppercase;
+  text-align:center;
+  margin-top:40px;
+  margin-bottom:30px;
+  //text-transform:uppercase;
   }
 
 #content h2 {
-  font-size:22px;
-  color:#da3d00;
+  font-size:200%;
+  //color:#ce5f34;
+  font-weight: 300;
+  margin-top:35px;
+  margin-bottom:40px;
+  text-align:center;
   }
 
 #content h4 {
   font-size:16px; 
-  color:#da3d00;
-  margin-bottom:10px;
+  color:#ce5f34;
+  margin-top:30px;
+  margin-bottom:15px;
   }
 
 #content h5 {
   font-size:16px;
-  text-align:right;
+  text-align:center;
+  margin-bottom:40px;
   }
   
 p.indent{
