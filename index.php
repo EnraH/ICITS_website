@@ -173,6 +173,7 @@ $activePages = array(
 -->
 
 	<div id="menu">
+  <!--<img src="img/Logo_white_small.png">-->
 		<ul>
 			<li class="menu-toplevel"><a onclick="pageClick('home'); return false;" href="?">Home</a></li>
       <li class="menu-toplevel"><a onclick="pageClick('home'); return false;" href="?">Papers</a>
@@ -188,7 +189,11 @@ $activePages = array(
 			<li class="menu-toplevel"><a onclick="pageClick('accommodation'); return false;" href="?page=accommodation">Accommodation</a></li>
 			<li class="menu-toplevel"><a onclick="pageClick('contact'); return false;" href="?page=contact">Contact</a></li>
 		</ul>
-	</div>
+<!--  <div id="menu-link">
+    
+  </div> 
+  -->
+  </div>
 
 	<div id="content">
 	<?php
