@@ -1,6 +1,7 @@
 #!/bin/bash
 # generate a new style sheet with new colors
 # reset style settings back to original
+cp style.css style.back."$(date +%s%N)".css
 cp style.original.css style.css
 
 
