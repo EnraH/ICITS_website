@@ -23,7 +23,7 @@ a:visited {
   }
 
 a:active {
-  color: #ce5f34;
+  color: #f41c0d;
   }
 
 a:hover {
@@ -120,20 +120,29 @@ div#sponsors:hover {
 //#iacr { margin-left:30px; margin-bottom:10px;}
 
 #header {
-//  z-index:2;
+  position:relative;
+  background-image:url("../img/background.png");
+  background-repeat:no-repeat;
+  background-position: center bottom;
+  background-size:cover;
   padding: 0px;
-  padding-top:0px;
-  //max-height: 300px;
-  margin-top:48px;
+  padding-top:50px;
+  max-height: 555px;
+  min-height:300px;
+  margin-top:0px;
   text-align:center;
-  background-color: #395b73;
   width:100%;
-  //overflow:hidden;
   }
 
 #header img {
-  //max-width: 800px;
-  width:100%;
+  width:80%;
+  max-width:700px;
+  opacity:0.7;
+  position: absolute;
+  bottom: 20px;
+  left:0px;
+  right:0px;
+  margin:auto;
   //min-height:100px;
  // margin-left:auto;
  // margin-right:auto;
@@ -144,7 +153,7 @@ div#sponsors:hover {
   //padding-left:10px;
   background-color:#395b73;
   color:#FFF;
-  opacity:0.9;
+  opacity:0.8;
 	/*position:absolute;
 	left:8px;
 	top:228px;*/
@@ -185,7 +194,7 @@ div#sponsors:hover {
 }
 
 #menu li:hover{
-  background-color: #ce5f34;
+  background-color: #284050;
 }
 
 li.menu-toplevel {
@@ -280,7 +289,7 @@ ul.single{
 
 #content h4 {
   font-size:16px; 
-  color:#ce5f34;
+  color: #f41c0d;
   margin-top:30px;
   margin-bottom:15px;
   }
