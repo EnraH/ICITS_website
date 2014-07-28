@@ -70,27 +70,21 @@ p {margin-top:1em; margin-bottom:1em}
 #title3 {font-size:20px; padding:5px;}
 
 div#sponsors {
-  //border-top:1px solid;
+  padding-top:40px;
+  padding-bottom:40px;
   color:#ffffff;
   background-color:#395b73;
 	font-size:16px;
-	//position:fixed;
-  //height:26px;
-  //overflow: hidden;
-  //bottom:0px;
-  //left:0px;
+  bottom:0px;
+  left:0px;
 	width: 100%;
-  //opacity:0.7;
-	//border:1px solid #eeeeee; 
-	padding-left:50px;
-  padding-top:40px;
-  padding-bottom:40px;
+  opacity:0.8;
 }
 
-div#sponsors:hover {
+/*div#sponsors:hover {
   //opacity:0.9;
   height:auto;
-  }
+  }*/
 
 #sponsors img {
   max-height:86px;
@@ -101,6 +95,8 @@ div#sponsors:hover {
   }
 
 #sponsors table {
+  margin-left:auto;
+  margin-right:auto;
   border: 0px;
   vertical-align:baseline;
   }
