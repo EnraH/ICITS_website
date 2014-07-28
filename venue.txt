@@ -6,9 +6,11 @@ Venue
 ICITS 2015 will take place at the <b>Universit&agrave; della Svizzera italiana</b>, in the <b>Main Building</b>.
 </p>
 
-<div style="overflow:hidden;"><img src="img/usilu.jpg" alt="Main Building"/></div>
-
-<a href="https://www.google.com/maps/place/University+of+Italian+speaking+Switzerland/@46.011031,8.958297,17z/data=!4m2!3m1!1s0x47842d8a7d9d44e1:0x51147d79a8566d60?hl=en">View Map</a>
+<!--<div style="overflow:hidden;"><img src="img/usilu.jpg" alt="Main Building"/></div>
+-->
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2771.0080814493854!2d8.958297!3d46.011030999999996!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47842d8a7d9d44e1%3A0x51147d79a8566d60!2sUniversit%C3%A4t+der+italienischen+Schweiz!5e0!3m2!1sde!2sch!4v1406531250302" width="100%" height="450" frameborder="0" style="border:0"></iframe>
+<!--<a href="https://www.google.com/maps/place/University+of+Italian+speaking+Switzerland/@46.011031,8.958297,17z/data=!4m2!3m1!1s0x47842d8a7d9d44e1:0x51147d79a8566d60?hl=en">View Map</a>
+-->
 
 <h4>How to get there</h4>
 
