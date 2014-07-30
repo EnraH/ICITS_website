@@ -221,7 +221,6 @@ $activePages = array(
     <tr>
     <td>
 		<a target="_blank" href="http://www.usi.ch/"><img alt="USI" id="USI" src="img/logo-usi.gif" /></a>
-		<a target="_blank" href="http://www.zurich.ibm.com/"><img alt="ibm" id="ibm" src="img/logo-ibm.jpg" /></a>
     </td>
     <td>
 		<a target="_blank" href="http://www.iacr.org/"><img alt="iacr" id="iacr" src="img/iacr.gif" /></a>
