@@ -1,6 +1,6 @@
 <?php
 
-if(isset($_SERVER) && isset($_SERVER["HTTP_USER_AGENT"])){
+/*if(isset($_SERVER) && isset($_SERVER["HTTP_USER_AGENT"])){
 	$agent = $_SERVER["HTTP_USER_AGENT"];
 }else if(isset($HTTP_USER_AGENT)){
 	$agent = $HTTP_USER_AGENT;
@@ -28,7 +28,7 @@ if(isset($_GET["noMobile"]) && $_GET["noMobile"]){
 		exit(0);
 	}
 
-}
+}*/
 
 $activePages = array(
 "home" => true, 
@@ -50,15 +50,10 @@ $activePages = array(
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
   <link rel="stylesheet" href="css/style.css" />
-	<?php
-		if(is_int(strpos($agent, 'ipad'))){
-			echo "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no\" >\n";
-		}
-	?>
 	<title>ICITS 2015</title>
 
 
-	<link rel="Stylesheet" type="text/css" href="css/smoothDivScroll.css" />
+	<!--<link rel="Stylesheet" type="text/css" href="css/smoothDivScroll.css" />
 	<style type="text/css">
 		#makeMeScrollable{
 			width:100%;
@@ -133,7 +128,7 @@ $activePages = array(
 		function pageClick(page){
 	 		void(open('#'+page,'_self'));
 		}
-	</script> 
+	</script> -->
 </head>
 <body>
 <div id="header">
