@@ -173,7 +173,7 @@ $activePages = array(
   <!--<img src="img/Logo_white_small.png">-->
 		<ul>
 			<li class="menu-toplevel"><a onclick="pageClick('home'); return false;" href="?">Home</a></li>
-      <li class="menu-toplevel"><a onclick="pageClick('home'); return false;" href="?">Papers</a>
+      <li class="menu-toplevel"><a onclick="pageClick('call'); return false;" href="?page=call">Papers</a>
       <ul>
         <li class="menu-level-1"><a onclick="pageClick('call'); return false;" href="?page=call">Call for Papers</a></li>
         <li class="menu-level-1"><a onclick="pageClick('submission'); return false;" href="?page=submission">Submission</a></li>

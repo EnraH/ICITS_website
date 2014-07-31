@@ -2,9 +2,9 @@
 Call for Papers
 </h2>
 
-<p>
+<!--<p>
 <a href="ICITS-2015-CFP.pdf" rel="external">Print version (pdf)</a>
-</p>
+</p>-->
 
 <p>
 This is the eighth in a series of conferences that aims to bring together the leading researchers in
