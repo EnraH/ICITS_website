@@ -37,6 +37,7 @@ $activePages = array(
 "invited" => true, 
 "venue" => true, 
 "papers" => true, 
+"program" => true, 
 "abstracts" => true, 
 "invited-abstracts" => true, 
 "registration" => true, 
@@ -50,6 +51,7 @@ $activePages = array(
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
   <link rel="stylesheet" href="css/style.css" />
+  <link rel="icon" href="favicon.ico" type="image/x-icon"/>
 	<title>ICITS 2015</title>
 
 
@@ -216,6 +218,7 @@ $activePages = array(
     <tr>
     <td>
 		<a target="_blank" href="http://www.usi.ch/"><img alt="USI" id="USI" src="img/logo-usi.gif" /></a>
+		<a target="_blank" href="http://www.nccr-qsit.ethz.ch/"><img alt="QSIT" id="QSIT" src="img/logo-qsit.jpg" /></a>
     </td>
     <td>
 		<a target="_blank" href="http://www.iacr.org/"><img alt="iacr" id="iacr" src="img/iacr.gif" /></a>
