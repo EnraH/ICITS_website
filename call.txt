@@ -2,10 +2,6 @@
 Call for Papers
 </h2>
 
-<!--<p>
-<a href="ICITS-2015-CFP.pdf" rel="external">Print version (pdf)</a>
-</p>-->
-
 <p>
 This is the eighth in a series of conferences that aims to bring together the leading researchers in
 the areas of information theory, quantum information theory, and cryptography. ICITS covers all
@@ -109,34 +105,6 @@ Anja Lehmann <i>(IBM Research, Zurich)</i><br>
 Stefan Wolf <i>(USI, Lugano)</i>
 </p>
 
-<h4>
-Program Committee
-</h4>
-
-<ul class="double">
-<li>Paulo Barreto <i>(Universidade de S&atilde;o Paulo)</i></li>
-<li>Gilles Brassard <i>(Universit&eacute; de Montr&eacute;al)</i></li>
-<li>Anne Broadbent <i>(Univeristy of Ottawa)</i></li>
-<li>Paolo D'Arco <i>(Universit&agrave; degli Studi di Salerno)</i></li>
-<li>Fr&eacute;d&eacute;ric Dupuis <i>(Aarhus Universitet)</i></li>
-<li>Stefan Dziembowski <i>(University of Warsaw)</i></li>
-<li>Sebastian Faust <i>(EPFL)</i></li>
-<li>Omar Fawzi <i>(ETH)</i></li>
-<li>Serge Fehr <i>(CWI Amsterdam)</i></li>
-<li>Yuval Ishai <i>(Technion)</i></li>
-<li>Robert K&ouml;nig <i>(University of Waterloo)</i></li>
-<li>Anderson Nascimento <i>(Universidade de Bras&iacute;lia)</i></li>
-<li>Prakash Narayan <i>(University of Maryland)</i></li>
-<li>Koji Nuida <i>(AIST)</i></li>
-<li>Fr&eacute;d&eacute;rique Oggier <i>(Nanyang Technological University)</i></li>
-<li>Claudio Orlandi <i>(Aarhus Universitet)</i></li>
-<li>Carles Padro <i>(Nanyang Technological University)</i></li>
-<li>Krzysztof Pietrzak <i>(IST Austria)</i></li>
-<li>Leo Reyzin <i>(Boston University)</i></li>
-<li>Reihaneh Safavi-Naini <i>(University of Calgary)</i></li>
-<li>Louis Salvail <i>(Universit&eacute; de Montr&eacute;al)</i></li>
-<li>Christian Schaffner <i>(CWI Amsterdam)</i></li>
-</ul>
 
 <h4>
 Instructions for Authors
