@@ -63,7 +63,7 @@ Two Tracks: Conference and Workshop
 
 <p>
 The goal of ICITS is to bring together researchers on all aspects of information-theoretic security.
-To this end, ICITS&nbsp;2012 will consist of two types of contributed presentations. The conference track
+To this end, ICITS&nbsp;2015 will consist of two types of contributed presentations. The conference track
 will act as a traditional conference (original papers with published proceedings). The workshop
 track will operate more like an informal workshop, with papers that have appeared elsewhere or
 that consist of work in progress.
