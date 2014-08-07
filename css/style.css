@@ -301,6 +301,11 @@ p.indent{
 	text-indent: -25px;
 }
 
+p.important-date{
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
 .accepted {clear:right;margin-bottom:20pt;padding:4pt}
 .abstract {border-left: solid #bbbbbb 1px;border-right: solid #bbbbbb 1px;border-top: solid #bbbbbb 1px;padding:4pt}
 .paper {border-left: solid #bbbbbb 1px;border-right: solid #bbbbbb 1px;border-top: solid #bbbbbb 1px;padding:4pt}

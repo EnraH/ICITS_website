@@ -37,24 +37,20 @@ Areas of interest include, but are not restricted to:
 Important Dates
 </h4>
 
-<ul class="double">
-<li><b>Conference Track Submission deadline:</b></li>
-<li><b>Sunday November 23, 2014, <br>midnight Central European Time</b></li>
-<li>Conference Track Notification:</li>
-<li>Friday, February 6, 2015</li>
-<li>Proceedings version due:</li>
-<li>Friday, March 20, 2015</li>
-</ul>
+<p class="important-date"><b>Conference Track Submission Deadline:</b> <br>
+<b>November 21, 2014, midnight Central European Time</b></p>
+<p class="important-date">Conference Track Notification: January 30, 2015</p>
+<!--Proceedings version due: January 30, 2015-->
 
-<ul class="double">
-<li><b>Workshop Track Submission deadline:</b></li>
-<li><b>Sunday December 21, 2014, <br>midnight Central European Time</b></li>
-<li>Workshop Track Notification:</li>
-<li>Friday, March 20, 2015</li>
-</ul>
+
+<p class="important-date">
+<b>Workshop Track Submission deadline:</b><br>
+<b>December 5, 2014, midnight Central European Time</b></p>
+<p class="important-date">Workshop Track Notification: January 30, 2015</p>
+
 
 <p>
-<i>ICITS 2015 (May 2–5, Lugano) is in the week after EUROCRYPT 2015 (April 26-30, Sofia) and before CRYPTO 2015 (Aug. 16–20, Santa Barbara).</i>
+<i>Note: ICITS 2015 takes place right after EUROCRYPT 2015 (April 26-30, Sofia).</i>
 </p>
 
 <h4>
