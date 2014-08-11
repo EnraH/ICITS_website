@@ -37,18 +37,17 @@ Areas of interest include, but are not restricted to:
 Important Dates
 </h4>
 
-<p class="important-date"><b>Conference Track Submission Deadline:</b> <br>
-<b>November 21, 2014, midnight Central European Time</b></p>
-<p class="important-date">Conference Track Notification: January 30, 2015</p>
-<!--Proceedings version due: January 30, 2015-->
+<p class="important-date"><i>Conference Track Submission Deadline: </i>
+<br><b>November 21, 2014 (23:59 UTC)</b></p>
 
 
 <p class="important-date">
-<b>Workshop Track Submission deadline:</b><br>
-<b>December 5, 2014, midnight Central European Time</b></p>
-<p class="important-date">Workshop Track Notification: January 30, 2015</p>
+<i>Workshop Track Submission deadline:</i><br>
+<b>December 5, 2014 (23:59 UTC)</b></p>
 
+<p class="important-date"><i>Notification of Decision:</i><br><b> January 30, 2015</b></p>
 
+<p class="important-date"><i>Conference:</i><br> <b>May 2-5, 2015</b></p>
 <p>
 <i>Note: ICITS 2015 takes place right after EUROCRYPT 2015 (April 26-30, Sofia).</i>
 </p>
@@ -58,11 +57,10 @@ Two Tracks: Conference and Workshop
 </h4>
 
 <p>
-The goal of ICITS is to bring together researchers on all aspects of information-theoretic security.
-To this end, ICITS&nbsp;2015 will consist of two types of contributed presentations. The conference track
-will act as a traditional conference (original papers with published proceedings). The workshop
-track will operate more like an informal workshop, with papers that have appeared elsewhere or
-that consist of work in progress.
+As the goal of ICITS is to bring together researchers on all aspects of information-theoretic security, it consists of
+two tracks with different types of contributed presentations: The <em>conference track</em> which acts as a traditional
+conference (original papers with published proceedings) and the <em>workshop track</em> which operates more like an
+informal workshop, with papers that have appeared elsewhere or that consist of work in progress.
 </p>
 
 <p class="indent">
@@ -80,28 +78,10 @@ proceedings is not.
 the committee also solicits “workshop track” papers. Accepted papers will be presented
 orally at the conference but will not appear in the proceedings. Submissions to this track
 that have previously appeared (or are currently submitted elsewhere) are acceptable, as long
-as they first appeared after January 1, 2011. Papers that describe work in progress are also
+as they first appeared after January 1, 2014. Papers that describe work in progress are also
 welcome. We note that the same standards of quality will apply to conference and workshop
 papers.
 </p>
-
-<h4>
-Conference Organization
-</h4>
-
-<p class="indent">
-<b>General Chairs</b>:<br>
-Anja Lehmann <i>(IBM Research, Zurich)</i><br>
-Stefan Wolf <i>(USI, Lugano)</i>
-</p>
-
-<p class="indent">
-<b>Program Chairs</b>:<br>
-Anja Lehmann <i>(IBM Research, Zurich)</i><br>
-Stefan Wolf <i>(USI, Lugano)</i>
-</p>
-
-
 <h4>
 Instructions for Authors
 </h4>
@@ -133,3 +113,12 @@ the discretion of the authors. (Previously published submissions cannot be anony
 
 <p>There is no restriction on program committee member submissions to either track, though
 PC-authored papers will be held to a higher standard.</p>
+
+<h4>
+Conference Organization
+</h4>
+<p class="indent">
+<b>General and Program Co-Chairs</b>:<br>
+Anja Lehmann <i>(IBM Research, Zurich)</i><br>
+Stefan Wolf <i>(USI, Lugano)</i>
+</p>
