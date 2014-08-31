@@ -63,12 +63,11 @@ $activePages = array(
 	<div id="sponsors">
   <table>
     <tr>
-    <td>
-		Sponsors:
+    <td>		Sponsors:
     </td>
-    <td>
+ <!--   <td>
 		In cooperation with:
-    </td>
+    </td>-->
     </tr>
     <tr>
     <td>
