@@ -26,7 +26,7 @@ $activePages = array(
 </head>
 <body>
 <div id="header">
-				<img src="img/Logo.png"  alt="icits">
+				<img src="img/Logo_white.png"  alt="icits">
 </div>
 
 	<div id="menu">
