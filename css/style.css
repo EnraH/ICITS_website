@@ -302,7 +302,7 @@ li.menu-level-1 a{
 #menu {
 	//font:14px;
   //padding-left:10px;
-  background-color:#395b73;
+  background-color:rgba(0, 0, 0, 0.3);
   color:#FFF;
   opacity:0.9;
 	/*position:absolute;
@@ -364,7 +364,7 @@ li.menu-toplevel {
 #menu ul li:hover > ul,
 #menu ul li:focus > ul {
   display:block;
-  background-color:#395b73;
+  background-color:rgba(0, 0, 0, 0.5);
   z-index:9999;
 }
 
