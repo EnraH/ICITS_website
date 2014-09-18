@@ -9,9 +9,9 @@ Deadlines:
 
 <ul class="double">
 <li><b>Conference Track Submission:</b></li>
-<li><b>Sunday November 23, 2014, midnight CET</b></li>
+<li><b>Sunday November 21, 2014, (23:59 UTC)</b></li>
 <li><b>Workshop Track Submission:</b></li>
-<li><b>Sunday December 21, 2014, midnight CET</b></li>
+<li><b>Sunday December 5, 2014, (23:59 UTC)</b></li>
 </ul>
 
 <h4>
