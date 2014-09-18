@@ -177,7 +177,21 @@ div#sponsors {
   margin-top:0px;
   text-align:center;
   width:100%;
+/*  -webkit-transition: background-image 5s ease-in-out;
+-moz-transition: background-image 5s ease-in-out;
+-ms-transition: background-image 5s ease-in-out;
+-o-transition: background-image 5s ease-in-out;
+transition: background-image 5s ease-in-out;*/
   }
+
+/*#header:hover {
+  background-image:url("../img/_DSC0002-3_upper_night.jpg");
+
+    -webkit-transition: background-image 5s ease-in;
+    -moz-transition: background-image 5s ease-in;
+    -o-transition: background-image 5s ease-in;
+    transition: background-image 5s ease-in;
+  }*/
 
 #header img {
   width:80%;
