@@ -1,6 +1,6 @@
-<h1>8<sup>th</sup> International Conference on Information Theoretic Security (ICITS)</h1>
+<h1>8<sup>th</sup> International Conference on Information-Theoretic Security (ICITS)</h1>
 
-<h5>2-5 May 2015, Lugano, Switzerland</h5>
+<h5>May 2-5, 2015, Lugano, Switzerland</h5>
 
 <!--	<div id="sponsors">
   <table>
@@ -26,7 +26,7 @@
 <p>
 ICITS is a conference about all aspects of information-theoretic
 security and brings together the leading researchers in the areas of
-cryptography, information theory and quantum information. It is the successor conference to the 2005 IEEE Information Theory Workshop on Theory and Practice in Information - Theoretic Security (ITW 2005) on Awaji Island, Japan. Previous ICITS conferences were held in:
+cryptography, information theory and quantum information. It is the successor conference to the 2005 IEEE Information-Theory Workshop on Theory and Practice in Information-Theoretic Security (ITW 2005) on Awaji Island, Japan. Previous ICITS conferences were held in:
 </p>
 <ul class="single">
 <li><a href="http://www.spms.ntu.edu.sg/mas/conference/icits2013/">ICITS 2013</a> in Singapore.</li>
@@ -45,8 +45,8 @@ ICITS 2015 will be held from <b>May 2 to 5</b>, and it takes place at <b><a href
 
 <ul class="double">
 <li>Physical layer security</li>
-<li>Multiparty computations</li>
-<li>Codes, lattices & cryptography</li>
+<li>Multiparty computation</li>
+<li>Codes, lattices, &amp; cryptography</li>
 <li>Authentication codes</li>
 <li>Randomness extraction</li>
 <li>Cryptography from noisy channels</li>
@@ -58,7 +58,7 @@ ICITS 2015 will be held from <b>May 2 to 5</b>, and it takes place at <b><a href
 <li>Nonlocality and nonsignaling</li>
 <li>Key and message rates</li>
 <li>Secret sharing</li>
-<li>Physical models & assumptions</li>
+<li>Physical models &amp; assumptions</li>
 <li>Network coding security</li>
 <li>Adversarial channel models</li>
 <li>Information-theoretic tools in computational settings</li>
