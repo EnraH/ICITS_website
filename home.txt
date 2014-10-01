@@ -76,13 +76,43 @@ Conference Organization
 
 <p class="indent">
 <b>General Chairs</b>:<br>
-Anja Lehmann <i>(IBM Research, Zurich)</i><br>
-Stefan Wolf <i>(USI, Lugano)</i>
+<a href="http://researcher.watson.ibm.com/researcher/view.php?person=zurich-anj">Anja Lehmann</a> <i>(IBM Research, Zurich, Switzerland)</i><br>
+<a href="http://cqi.inf.usi.ch/">Stefan Wolf</a> <i>(USI Lugano, Switzerland)</i>
 </p>
 
 <p class="indent">
 <b>Program Chairs</b>:<br>
-Anja Lehmann <i>(IBM Research, Zurich)</i><br>
-Stefan Wolf <i>(USI, Lugano)</i>
+<a href="http://researcher.watson.ibm.com/researcher/view.php?person=zurich-anj">Anja Lehmann</a> <i>(IBM Research, Zurich, Switzerland)</i><br>
+<a href="http://cqi.inf.usi.ch/">Stefan Wolf</a> <i>(USI Lugano, Switzerland)</i>
 </p>
 
+
+
+<h4>
+Program Committee
+</h4>
+<ul style="columns: 1;-webkit-columns: 1;-moz-columns: 1;">
+<li><a href="http://www.dia.unisa.it/professori/paodar">Paolo D'Arco</a> <i>(University of Salerno, Italy)</i></li>
+<li><a href="http://www.larc.usp.br/~pbarreto">Paulo Barreto</a> <i>(University of S&atilde;o Paulo, Brazil)</i></li>
+<li><a href="http://directory.caltech.edu/personnel/berta">Mario Berta</a> <i>(Caltech, USA)</i></li>
+<li><a href="http://mysite.science.uottawa.ca/abroadbe">Anne Broadbent</a> <i>(University of Ottawa, Canada)</i></li>
+<li><a href="http://maths.york.ac.uk/www/rc973">Roger Colbeck</a> <i>(University of York, UK)</i></li>
+<li><a href="http://www.cs.au.dk/~dupuis/">Fr&eacute;d&eacute;ric Dupuis</a> <i>(&Aring;rhus University, Denmark)</i></li>
+<li><a href="http://www.crypto.edu.pl/Dziembowski">Stefan Dziembowski</a> <i>(University of Warsaw, Poland)</i></li>
+<li><a href="http://cs.au.dk/~sfaust/">Sebastian Faust</a> <i>(EPF Lausanne, Switzerland)</i></li>
+<li><a href="http://www.cs.mcgill.ca/~ofawzi/">Omar Fawzi</a> <i>(ETH Zurich, Switzerland)</i></li>
+<li><a href="http://pub.ist.ac.at/~pgazi/">Peter Gazi</a> <i>(IST, Austria)</i></li>
+<li><a href="http://www.cs.technion.ac.il/~yuvali/">Yuval Ishai</a> <i>(Technion, Israel)</i></li>
+<li><a href="http://researcher.watson.ibm.com/researcher/view.php?person=zurich-anj">Anja Lehmann</a> <i>(IBM Research Zurich, Switzerland)</i></li>
+<li><a href="http://www.isg.rhul.ac.uk/~martin/">Keith Martin</a> <i>(Royal Holloway, University of London, UK)</i></li>
+<li><a href="http://www.ece.umd.edu/~prakash">Prakash Narayan</a> <i>(University of Maryland, USA)</i></li>
+<li><a href="http://www.ene.unb.br/index.php?option=com_content&view=article&id=130&Itemid=84">Anderson Nascimento</a> <i>(University of Brasilia, Brazil)</i></li>
+<li><a href="http://staff.aist.go.jp/k.nuida/index-en.html">Koji Nuida</a> <i>(AIST, Japan)</i></li>
+<li><a href="http://www.systems.caltech.edu/~frederique/">Frederique Oggier</a> <i>(Caltech, USA)</i></li>
+<li><a href="http://www.cs.au.dk/~orlandi/">Claudio Orlandi</a> <i>(&Aring;rhus University, Denmark)</i></li>
+<li><a href="http://www-ma4.upc.edu/~cpadro/">Carles Padro</a> <i>(Polytechnic University of Catalonia, Spain)</i></li>
+<li><a href="http://pages.cpsc.ucalgary.ca/~rei/">Rei Safavi-Naini</a> <i>(University of Calgary, Canada)</i></li>
+<li><a href="http://sydney.edu.au/research/our_research/postdoc_fellows.shtml">Marco Tomamichel</a> <i>(University of Sidney, Australia)</i></li>
+<li><a href="http://cqi.inf.usi.ch/">Stefan Wolf</a> <i>(USI Lugano, Switzerland)</i></li>
+<li><a href="http://crypto.stanford.edu/~zhandry/">Mark Zhandry</a> <i>(Stanford University, USA)</i></li>
+</ul>

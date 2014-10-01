@@ -33,20 +33,15 @@ Important Dates:
 
 Two Tracks: Conference and Workshop:
 As the goal of ICITS is to bring together researchers on all aspects of information-theoretic security,
-it consists of two tracks with different types of contributed presentations: The conference track which
-acts as a traditional conference (original papers with published proceedings) and the workshop track which
-operates more like an informal workshop, with papers that have appeared elsewhere or that consist of work
-in progress.
+it consists of two tracks with different types of contributed presentations:
 
 - Conference Track (with proceedings): Submissions to this track must be original papers that have not
-previously appeared in published form. Accepted papers will be presented at the conference and will also
-be published in the conference proceedings (which will appear in Springer’s Lecture Notes in Computer
-Science series). We note that simultaneous submission to journals is acceptable, but simultaneous
-submission to other conferences with published proceedings is not.
+previously appeared in published form. Accepted papers will be presented at the conference and will
+appear in the conference proceedings, which will be published by Springer in the LNCS series.
 
 - Workshop Track (no proceedings): To encourage presentation of work from a variety of fields (especially
 those where conference publication is unusual or makes journal publication difficult), the committee also
-solicits “workshop track” papers. Accepted papers will be presented orally at the conference but will not
+solicits "workshop track" papers. Accepted papers will be presented orally at the conference but will not
 appear in the proceedings. Submissions to this track that have previously appeared (or are currently
 submitted elsewhere) are acceptable, as long as they first appeared after January 1, 2014. Papers that
 describe work in progress are also welcome. We note that the same standards of quality will apply to
@@ -111,7 +106,7 @@ Program Committee:
 - Anderson Nascimento (University of Brasilia, Brazil)
 - Koji Nuida (AIST, Japan)
 - Frederique Oggier (Caltech, USA)
-- Claudio Orlandi (Århus University, Denmark)
+- Claudio Orlandi (Aarhus University, Denmark)
 - Carles Padro (Polytechnic University of Catalonia, Spain)
 - Rei Safavi-Naini (University of Calgary, Canada)
 - Marco Tomamichel (University of Sidney, Australia)
