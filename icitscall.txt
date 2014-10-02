@@ -89,11 +89,11 @@ Conference Organization (General and Program Co-Charis):
 
 
 Program Committee:
-- Paolo D'Arco (University of Salerno, Italy)
 - Paulo Barreto (University of Sao Paulo, Brazil)
 - Mario Berta (Caltech, USA)
 - Anne Broadbent (University of Ottawa, Canada)
 - Roger Colbeck (University of York, UK)
+- Paolo D'Arco (University of Salerno, Italy)
 - Frederic Dupuis (Aarhus University, Denmark)
 - Stefan Dziembowski (University of Warsaw, Poland)
 - Sebastian Faust (EPF Lausanne, Switzerland)

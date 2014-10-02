@@ -113,11 +113,11 @@ Conference Organization
 Program Committee
 </h4>
 <ul style="columns: 1;-webkit-columns: 1;-moz-columns: 1;">
-<li><a href="http://www.dia.unisa.it/professori/paodar">Paolo D'Arco</a> <i>(University of Salerno, Italy)</i></li>
 <li><a href="http://www.larc.usp.br/~pbarreto">Paulo Barreto</a> <i>(University of S&atilde;o Paulo, Brazil)</i></li>
 <li><a href="http://directory.caltech.edu/personnel/berta">Mario Berta</a> <i>(Caltech, USA)</i></li>
 <li><a href="http://mysite.science.uottawa.ca/abroadbe">Anne Broadbent</a> <i>(University of Ottawa, Canada)</i></li>
 <li><a href="http://maths.york.ac.uk/www/rc973">Roger Colbeck</a> <i>(University of York, UK)</i></li>
+<li><a href="http://www.dia.unisa.it/professori/paodar">Paolo D'Arco</a> <i>(University of Salerno, Italy)</i></li>
 <li><a href="http://www.cs.au.dk/~dupuis/">Fr&eacute;d&eacute;ric Dupuis</a> <i>(Aarhus University, Denmark)</i></li>
 <li><a href="http://www.crypto.edu.pl/Dziembowski">Stefan Dziembowski</a> <i>(University of Warsaw, Poland)</i></li>
 <li><a href="http://cs.au.dk/~sfaust/">Sebastian Faust</a> <i>(EPF Lausanne, Switzerland)</i></li>
