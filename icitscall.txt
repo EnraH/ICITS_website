@@ -97,7 +97,7 @@ Program Committee:
 - Frederic Dupuis (Aarhus University, Denmark)
 - Stefan Dziembowski (University of Warsaw, Poland)
 - Sebastian Faust (EPF Lausanne, Switzerland)
-- Omar Fawzi (ETH Zurich, Switzerland)
+- Omar Fawzi (ENS Lyon, France)
 - Peter Gazi (IST, Austria)
 - Yuval Ishai (Technion, Israel)
 - Anja Lehmann (IBM Research Zurich, Switzerland)
