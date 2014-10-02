@@ -103,7 +103,7 @@ Program Committee:
 - Anja Lehmann (IBM Research Zurich, Switzerland)
 - Keith Martin (Royal Holloway, University of London, UK)
 - Prakash Narayan (University of Maryland, USA)
-- Anderson Nascimento (University of Brasilia, Brazil)
+- Anderson Nascimento (University of Washington Tacoma, USA)
 - Koji Nuida (AIST, Japan)
 - Frederique Oggier (Caltech, USA)
 - Claudio Orlandi (Aarhus University, Denmark)
