@@ -105,7 +105,7 @@ Program Committee:
 - Prakash Narayan (University of Maryland, USA)
 - Anderson Nascimento (University of Washington Tacoma, USA)
 - Koji Nuida (AIST, Japan)
-- Frederique Oggier (Caltech, USA)
+- Frederique Oggier (NTU, Singapore)
 - Claudio Orlandi (Aarhus University, Denmark)
 - Carles Padro (Polytechnic University of Catalonia, Spain)
 - Rei Safavi-Naini (University of Calgary, Canada)

@@ -129,7 +129,7 @@ Program Committee
 <li><a href="http://www.ece.umd.edu/~prakash">Prakash Narayan</a> <i>(University of Maryland, USA)</i></li>
 <li><a href="http://anderson-nascimento.squarespace.com">Anderson Nascimento</a> <i>(University of Washington Tacoma, USA)</i></li>
 <li><a href="http://staff.aist.go.jp/k.nuida/index-en.html">Koji Nuida</a> <i>(AIST, Japan)</i></li>
-<li><a href="http://www.systems.caltech.edu/~frederique/">Frederique Oggier</a> <i>(Caltech, USA)</i></li>
+<li><a href="http://www1.spms.ntu.edu.sg/~frederique/">Fr&eacute;d&eacute;rique Oggier</a> <i>(NTU, Singapore)</i></li>
 <li><a href="http://www.cs.au.dk/~orlandi/">Claudio Orlandi</a> <i>(Aarhus University, Denmark)</i></li>
 <li><a href="http://www-ma4.upc.edu/~cpadro/">Carles Padro</a> <i>(Polytechnic University of Catalonia, Spain)</i></li>
 <li><a href="http://pages.cpsc.ucalgary.ca/~rei/">Rei Safavi-Naini</a> <i>(University of Calgary, Canada)</i></li>
