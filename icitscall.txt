@@ -10,6 +10,7 @@ areas of information theory, quantum information theory, and cryptography. ICITS
 information-theoretic security, from relevant mathematical tools to theoretical modeling to implementation.
 Papers on all technical aspects of these topics are solicited for submission. Areas of interest include,
 but are not restricted to:
+
 Physical layer security / Multiparty computation / Codes, lattices, & cryptography / Authentication codes /
 Randomness extraction / Cryptography from noisy channels / Wiretap channels / Bounded-storage models /
 Information-theoretic reductions /  Quantum cryptography / Quantum information theory / Nonlocality and
@@ -18,20 +19,14 @@ security / Adversarial channel models / Information-theoretic tools in computati
 Implementation challenges / Biometric security
 
 
-
-
-
-Important Dates:
+== Important Dates ==
 - Conference Track Submission Deadline: November 21, 2014
 - Workshop Track Submission Deadline: December 5, 2014
 - Notification of Decision: January 30, 2015
 - Conference: May 2-5, 2015
 
 
-
-
-
-Two Tracks: Conference and Workshop:
+== Two Tracks: Conference and Workshop ==
 As the goal of ICITS is to bring together researchers on all aspects of information-theoretic security,
 it consists of two tracks with different types of contributed presentations:
 
@@ -48,47 +43,12 @@ describe work in progress are also welcome. We note that the same standards of q
 conference and workshop papers.
 
 
-
-
-
-Instruction for Authors:
-- Conference Track: Submissions must not substantially duplicate work published elsewhere or submitted in
-parallel to a journal or any other conference/workshop that has proceedings. The submission must be
-anonymous, with no author names, affiliations, or obvious references. The length of the submission must be
-at most 12 pages excluding bibliography and appendices. The text must be in a single column format, use at
-least 11- point fonts, and have reasonable margins. The submission should begin with a title and a short
-abstract. The introduction should summarize the contributions of the paper at a level appropriate for a
-non-specialist reader. Committee members are not required to read appendices; the paper should be
-intelligible without them. Submissions should preferably be in PDF format. Instructions on how to submit
-will be provided on the web site.
-
-- Workshop Track: Authors may submit a paper published elsewhere or an original manuscript. As with the
-conference track, submissions should begin with a title and short abstract followed by an introduction that
-summarizes the contributions at a level appropriate for a non-specialist reader. Information about 
-previous publication, if any, should be indicated on the first page of the submission. Beyond these
-guidelines no specific format is required. In particular, (a) papers previously published elsewhere may be
-submitted in their published form provided bibliographic information is clearly indicated; (b) short
-summaries of works available in other venues or online (on the arXiv or IACR eprint) are acceptable;
-(c) original submissions may be left anonymous at the discretion of the authors. (Previously published
-submissions cannot be anonymous.)
-
-
-There is no restriction on program committee member submissions to either track, though PC-authored papers
-will be held to a higher standard.
-
-
-
-
-
-Conference Organization (General and Program Co-Charis):
+== Conference Organization (General and Program Co-Chairs) == 
 - Anja Lehmann (IBM Research Zurich, Switzerland)
 - Stefan Wolf (USI Lugano, Switzerland)
 
 
-
-
-
-Program Committee:
+== Program Committee == 
 - Paulo Barreto (University of Sao Paulo, Brazil)
 - Mario Berta (Caltech, USA)
 - Anne Broadbent (University of Ottawa, Canada)
@@ -112,3 +72,25 @@ Program Committee:
 - Marco Tomamichel (University of Sidney, Australia)
 - Stefan Wolf (USI Lugano, Switzerland)
 - Mark Zhandry (Stanford University, USA)
+
+
+== Instruction for Authors ==
+- Conference Track: Submissions must not substantially duplicate work published elsewhere or submitted in
+parallel to a journal or any other conference/workshop that has proceedings. The submission must be
+anonymous, with no author names, affiliations, or obvious references. The length of the submission must be
+at most 12 pages excluding bibliography and appendices. The text must be in a single column format, use at
+least 11- point fonts, and have reasonable margins. The submission should begin with a title and a short
+abstract. The introduction should summarize the contributions of the paper at a level appropriate for a
+non-specialist reader. Committee members are not required to read appendices; the paper should be
+intelligible without them. Submissions should preferably be in PDF format. Instructions on how to submit
+will be provided on the web site.
+
+- Workshop Track: Authors may submit a paper published elsewhere or an original manuscript. As with the
+conference track, submissions should begin with a title and short abstract followed by an introduction that
+summarizes the contributions at a level appropriate for a non-specialist reader. Information about 
+previous publication, if any, should be indicated on the first page of the submission. Beyond these
+guidelines no specific format is required. In particular, (a) papers previously published elsewhere may be
+submitted in their published form provided bibliographic information is clearly indicated; (b) short
+summaries of works available in other venues or online (on the arXiv or IACR eprint) are acceptable;
+(c) original submissions may be left anonymous at the discretion of the authors. (Previously published
+submissions cannot be anonymous.)
