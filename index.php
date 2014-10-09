@@ -17,8 +17,9 @@ $activePages = array(
 
 ?>
 <!DOCTYPE HTML>
-<html >
+<html xmlns:og="http://ogp.me/ns#" >
 <head>
+  <meta property="og:image" content="http://icits2015.net/img/Screenshot1.png" />
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
   <link rel="stylesheet" href="css/style.css" />
   <link rel="icon" href="favicon.ico" type="image/x-icon"/>
