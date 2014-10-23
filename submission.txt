@@ -1,7 +1,7 @@
 <h2>Submission</h2>
 
 <p>
-<b>The submission server is not open yet.</b><br><br>
+<b>The submission server is open: <a href="https://easychair.org/conferences/?conf=icits20150">Submission</a></b><br><br>
 
 <h4>
 Deadlines:
