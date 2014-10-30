@@ -23,6 +23,11 @@
     </tr>
     </table>
 	</div>-->
+<h4>News</h4>
+<p>
+<b>The <a href="https://easychair.org/conferences/?conf=icits20150">submission server</a> is open!</b>
+</p>
+<h4>About the Conference</h4>
 <p>
 ICITS is a conference about all aspects of information-theoretic
 security and brings together the leading researchers in the areas of

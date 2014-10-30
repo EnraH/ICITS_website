@@ -54,7 +54,7 @@ conference and workshop papers.
 - Anne Broadbent (University of Ottawa, Canada)
 - Roger Colbeck (University of York, UK)
 - Paolo D'Arco (University of Salerno, Italy)
-- Frederic Dupuis (Aarhus University, Denmark)
+- Frederic Dupuis (Masaryk University, Czech Republic)
 - Stefan Dziembowski (University of Warsaw, Poland)
 - Sebastian Faust (EPF Lausanne, Switzerland)
 - Omar Fawzi (ENS Lyon, France)
