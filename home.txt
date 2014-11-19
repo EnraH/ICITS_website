@@ -2,28 +2,9 @@
 
 <h5>May 2-5, 2015, Lugano, Switzerland</h5>
 
-<!--	<div id="sponsors">
-  <table>
-    <tr>
-    <td>
-		Sponsors:
-    </td>
-    <td>
-		In cooperation with:
-    </td>
-    </tr>
-    <tr>
-    <td>
-		<a target="_blank" href="http://www.usi.ch/"><img alt="USI" id="USI" src="img/logo-usi.gif" /></a>
-		<a target="_blank" href="http://www.zurich.ibm.com/"><img alt="ibm" id="ibm" src="img/logo-ibm.jpg" /></a>
-    </td>
-    <td>
-		<a target="_blank" href="http://www.iacr.org/"><img alt="iacr" id="iacr" src="img/iacr.gif" /></a>
-    </td>
-    </tr>
-    </table>
-	</div>-->
 <h4>News</h4>
+<p>
+<b>The <a href="https://secure.usi.ch/icits2015/reg.php" target="_blank">registration server</a> is now open.</b></p>
 <p>
 <b>The invited speakers will be</b>
 <ul style="columns: 1;-webkit-columns: 1;-moz-columns: 1;">
