@@ -1,6 +1,6 @@
 <h2>Registration</h2>
 
-<p>The registration server is not open yet.</p>
+<p>The registration server is now open. Please register <a href="https://secure.usi.ch/icits2015/reg.php" target="_blank">here</a>.</p>
 
 <!--
 <p>The fees, including tax, are as follows:</p>
