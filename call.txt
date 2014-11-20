@@ -38,8 +38,8 @@ Areas of interest include, but are not restricted to:
 Important Dates
 </h4>
 
-<p class="important-date"><i>Conference Track Submission Deadline: </i>
-<br><b>November 21, 2014 (23:59 UTC)</b></p>
+<p class="important-date"><i><font color = "#F41C0D"><b>New</b> </font> Conference Track Submission Deadline: </i>
+<br><b>November 28, 2014 (23:59 UTC)</b></p>
 
 
 <p class="important-date">

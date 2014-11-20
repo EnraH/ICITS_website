@@ -2,6 +2,11 @@
 
 <h5>May 2-5, 2015, Lugano, Switzerland</h5>
 
+<h4>Deadline Extended</h4>
+
+<p class="important-date"><i><font color = "#F41C0D"><b>New</b> </font> Conference Track Submission Deadline: </i>
+<br><b>November 28, 2014 (23:59 UTC)</b></p>
+
 <h4>News</h4>
 <p>
 <b>The <a href="https://secure.usi.ch/icits2015/reg.php" target="_blank">registration server</a> is now open.</b></p>

@@ -20,7 +20,7 @@ Implementation challenges / Biometric security
 
 
 == Important Dates ==
-- Conference Track Submission Deadline: November 21, 2014
+- Conference Track Submission Deadline: November 28, 2014
 - Workshop Track Submission Deadline: December 5, 2014
 - Notification of Decision: January 30, 2015
 - Conference: May 2-5, 2015
