@@ -1,3 +1,11 @@
+---------------------------------------------
+New Submission Deadline for Conference Track:
+
+             November 28, 2014
+
+---------------------------------------------
+
+
 Call for Papers: ICITS 2015
 ===========================
 8th International Conference on Information-theoretic Security (ICITS)
@@ -20,10 +28,17 @@ Implementation challenges / Biometric security
 
 
 == Important Dates ==
-- Conference Track Submission Deadline: November 21, 2014
+- Conference Track Submission Deadline: November 28, 2014
 - Workshop Track Submission Deadline: December 5, 2014
 - Notification of Decision: January 30, 2015
 - Conference: May 2-5, 2015
+
+== Invitited Speakers ==
+- Adrian Kent (University of Cambridge, UK)
+- Jesper Buus Nielsen (Aarhus University, Denmark)
+- Joseph M. Renes (ETH Zurich, Switzerland)
+- Daniel Wichs (Northeastern University, USA)
+- Andreas Winter (Universitat Autonòma de Barcelona, Spain)
 
 
 == Two Tracks: Conference and Workshop ==
