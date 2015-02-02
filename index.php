@@ -12,7 +12,8 @@ $activePages = array(
 "invited-abstracts" => true, 
 "registration" => true, 
 "accommodation" => true, 
-"contact" => true);
+"contact" => true,
+"instructions" => true);
 
 
 ?>

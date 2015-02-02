@@ -1,0 +1,71 @@
+<h2>Instructions for Authors</h2>
+
+<h4>To do February 15, 2015 (Summary): </h4> 
+
+<ol style="columns: 1;-webkit-columns: 1;-moz-columns: 1;">
+  <li>upload the LNCS copyright</li> 
+  <li>upload the final version of the paper </li>
+  <li>upload abstract for the web page </li>
+</ol>
+
+
+<h4>Reviews</h4> 
+
+<ul style="columns: 1;-webkit-columns: 1;-moz-columns: 1;list-style: square outside none;">
+  <li> The corresponding authors obtain the reviews by email. </li>
+  <li> The authors may implement the changes suggested in the reports, but the final decision belongs to the authors. </li>
+  <li> If the paper is assigned a shepherd, then the final version must be approved by the shepherd before the deadline for uploading the camera ready version.  </li>
+</ul> 
+
+
+<h4>Copyright</h4>
+
+<ul style="columns: 1;-webkit-columns: 1;-moz-columns: 1;list-style: square outside none;">
+  <li> The copyright has to be signed by the authors (or at least the corresponding author) and uploaded using your EasyChair author account.
+       You can scan the form into PDF file. If you cannot scan the signed form please fax it to the fax number 
+       +4871 3202109 instead. </li>
+  <li> Please use the current version of the copyright available <a href="ftp://ftp.springer.de/pub/tex/latex/llncs/LNCS-Springer_Copyright_Form.pdf" target="_blank">here</a> and enter <i>ICITS 2015 - 8th International Conference on Information-Theoretic Security</i> as conference name and <i>Stefan Wolf</i> as volume editor.</li>
+</ul> 
+ 
+<h4>Camera Ready Paper</h4>
+
+<ul style="columns: 1;-webkit-columns: 1;-moz-columns: 1;list-style: square outside none;list-style: square outside none;">
+  <li> The files have to be uploaded using your EasyChair author account. </li>
+  <li> Generally the page limit is <b>18 pages</b>. 
+  <ul style="columns: 1;-webkit-columns: 1;-moz-columns: 1;list-style: circle outside none;">
+    <li> If you cannot fit into this limit please contact <a href="mailto:loc@icits2015.net" target="_blank">loc@icits2015.net</a>. </li>
+    <li>  Please do not adjust  the font size or the page layout in order to reduce the number of pages 
+     -- they will be converted to the standard values anyway. </li>
+  </ul></li>
+  <li> Please follow strictly the <a href="http://www.springer.de/comp/lncs/authors.html" target="_blank">author instructions</a> of Springer-Verlag
+    when preparing the final version. In particular you are asked to use the <a href="ftp://ftp.springer.de/pub/tex/latex/llncs/latex2e/llncs2e.zip" target="_blank">LNCS styles</a>. </li>
+  <li> Whenever possible, use only standard packages. All <b>nonstandard packages must be included</b> in the zipfile.</li>
+  <li> The uploaded files consist of 
+    <ol style="columns: 1;-webkit-columns: 1;-moz-columns: 1;">
+      <li>either a zipped file containing all your LaTeX sources</li>
+      <li>PDF version of your camera-ready paper.</li>
+    </ol>
+  </li>
+  <li> The publisher has introduced an extra control loop: once
+    data processing is finished, they will contact all corresponding
+    authors and ask them to check their papers.</li>
+</ul>
+
+
+<h4> Important Dates </h4>
+
+<ul style="columns: 1;-webkit-columns: 1;-moz-columns: 1;list-style: square outside none;">
+  <li> All files are to be uploaded until <b>February 15, 2015</b>. </li>
+  <li> Due to the tight time schedule 
+  we cannot guarantee including the paper in the proceedings 
+  in case of a late submission,  a wrong format or violation of the page limit.  </li>
+</ul>
+
+<h4> Web Page </h4>
+
+<ul style="columns: 1;-webkit-columns: 1;-moz-columns: 1;list-style: square outside none;">
+  <li> in order to disseminate your results and attract the people to your talk, 
+  we shall attach the abstract of your paper to the list of accepted papers. </li>
+  <li> please upload the the abstract as text file  using your EasyChair author account, 
+  preferably until <b>Februarz 15, 2015</b>.</li>
+</ul>
