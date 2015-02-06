@@ -24,7 +24,7 @@
   <li> The copyright has to be signed by the authors (or at least the corresponding author) and uploaded using your EasyChair author account.
        You can scan the form into PDF file. If you cannot scan the signed form please fax it to the fax number 
        +41 58 666 4536 instead. </li>
-  <li> Please use the current version of the copyright available <a href="ftp://ftp.springer.de/pub/tex/latex/llncs/LNCS-Springer_Copyright_Form.pdf" target="_blank">here</a> and enter <i>ICITS 2015 - 8th International Conference on Information-Theoretic Security</i> as conference name and <i>Anja Lehman and Stefan Wolf</i> as volume editors.</li>
+  <li> Please use the current version of the copyright available <a href="ftp://ftp.springer.de/pub/tex/latex/llncs/LNCS-Springer_Copyright_Form.pdf" target="_blank">here</a> and enter <i>ICITS 2015 - 8th International Conference on Information-Theoretic Security</i> as conference name and <i>Anja Lehmann and Stefan Wolf</i> as volume editors.</li>
 </ul> 
  
 <h4>Camera-Ready Paper (Conference Track)</h4>
@@ -40,9 +40,10 @@
   <li> Please follow strictly the <a href="http://www.springer.de/comp/lncs/authors.html" target="_blank">author instructions</a> of Springer-Verlag
     when preparing the final version. In particular you are asked to use the <a href="ftp://ftp.springer.de/pub/tex/latex/llncs/latex2e/llncs2e.zip" target="_blank">LNCS styles</a>. </li>
   <li> Whenever possible, use only standard packages. All <b>nonstandard packages must be included</b> in the zipfile.</li>
-  <li> The uploaded files consist of 
+  <li> The uploaded files consist of a zipped file containing 
     <ol style="columns: 1;-webkit-columns: 1;-moz-columns: 1;">
-      <li>a zipped file containing all your LaTeX sources and the filled-in copyright form (see above)</li>
+      <li>all your LaTeX sources</li>
+      <li>the filled-in copyright form (see above)</li>
       <li>PDF version of your camera-ready paper.</li>
     </ol>
   </li>

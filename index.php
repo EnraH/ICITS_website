@@ -33,19 +33,25 @@ $activePages = array(
 
 	<div id="menu">
 		<ul>
-			<li class="menu-toplevel"><a onclick="pageClick('home'); return false;" href="?">Home</a></li>
-      <li class="menu-toplevel"><a onclick="pageClick('call'); return false;" href="?page=call">Papers</a>
-      <ul>
-        <li class="menu-level-1"><a onclick="pageClick('call'); return false;" href="?page=call">Call for Papers</a></li>
-        <li class="menu-level-1"><a onclick="pageClick('submission'); return false;" href="?page=submission">Submission</a></li>
-        <li class="menu-level-1"><a onclick="pageClick('invited'); return false;" href="?page=invited">Invited Speakers</a></li>
-        <li class="menu-level-1"><a onclick="pageClick('papers'); return false;" href="?page=papers">Accepted Papers</a></li>
-      </ul></li>
-			<li class="menu-toplevel"><a onclick="pageClick('program'); return false;" href="?page=program">Program</a></li>
-			<li class="menu-toplevel"><a onclick="pageClick('venue'); return false;" href="?page=venue">Venue</a></li>
-			<li class="menu-toplevel"><a onclick="pageClick('registration'); return false;" href="?page=registration">Registration</a></li>
-			<li class="menu-toplevel"><a onclick="pageClick('accommodation'); return false;" href="?page=accommodation">Accommodation</a></li>
-			<li class="menu-toplevel"><a onclick="pageClick('contact'); return false;" href="?page=contact">Contact</a></li>
+		<li class="menu-toplevel"><a onclick="pageClick('home'); return false;" href="?">Home</a></li>
+		<li class="menu-toplevel"><a onclick="pageClick('call'); return false;" href="?page=call">Papers</a>
+		<ul>
+        	<li class="menu-level-1"><a onclick="pageClick('call'); return false;" href="?page=call">Call for Papers</a></li>
+        	<li class="menu-level-1"><a onclick="pageClick('submission'); return false;" href="?page=submission">Submission</a></li>
+        	<li class="menu-level-1"><a onclick="pageClick('papers'); return false;" href="?page=papers">Accepted Papers</a></li>
+        	<li class="menu-level-1"><a onclick="pageClick('instructions'); return false;" href="?page=instructions">Instructions</a></li>
+      	</ul>
+      	</li>
+		<li class="menu-toplevel"><a onclick="pageClick('program'); return false;" href="?page=program">Program</a>
+		<ul>
+			<li class="menu-level-1"><a onclick="pageClick('program'); return false;" href="?page=program">Conference Program</a>
+			<li class="menu-level-1"><a onclick="pageClick('invited'); return false;" href="?page=invited">Invited Speakers</a></li>
+		</ul>
+		</li>
+		<li class="menu-toplevel"><a onclick="pageClick('venue'); return false;" href="?page=venue">Venue</a></li>
+		<li class="menu-toplevel"><a onclick="pageClick('registration'); return false;" href="?page=registration">Registration</a></li>
+		<li class="menu-toplevel"><a onclick="pageClick('accommodation'); return false;" href="?page=accommodation">Accommodation</a></li>
+		<li class="menu-toplevel"><a onclick="pageClick('contact'); return false;" href="?page=contact">Contact</a></li>
 		</ul>
   </div>
 
