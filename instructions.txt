@@ -27,7 +27,7 @@
   <li> Please use the current version of the copyright available <a href="ftp://ftp.springer.de/pub/tex/latex/llncs/LNCS-Springer_Copyright_Form.pdf" target="_blank">here</a> and enter <i>ICITS 2015 - 8th International Conference on Information-Theoretic Security</i> as conference name and <i>Anja Lehman and Stefan Wolf</i> as volume editors.</li>
 </ul> 
  
-<h4>Camera-Ready Paper</h4>
+<h4>Camera-Ready Paper (Conference Track)</h4>
 
 <ul style="columns: 1;-webkit-columns: 1;-moz-columns: 1;list-style: square outside none;list-style: square outside none;">
   <li> The files have to be uploaded using your EasyChair author account. </li>
@@ -42,7 +42,7 @@
   <li> Whenever possible, use only standard packages. All <b>nonstandard packages must be included</b> in the zipfile.</li>
   <li> The uploaded files consist of 
     <ol style="columns: 1;-webkit-columns: 1;-moz-columns: 1;">
-      <li>a zipped file containing all your LaTeX sources</li>
+      <li>a zipped file containing all your LaTeX sources and the filled-in copyright form (see above)</li>
       <li>PDF version of your camera-ready paper.</li>
     </ol>
   </li>
