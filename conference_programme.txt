@@ -1,0 +1,46 @@
+ICITS 2015
+==========
+
+8th International Conference on Information Theoretic Security
+
+Sponsors:
+  USI, QSIT, Citta di Lugano
+
+In cooperation with
+  International Association for Cryptologic Research, IEEE Information Theory Society
+
+# Programme
+
+## Saturday, May 2, 2015
+## Sunday, May 3, 2015
+## Monday, May 4, 2015
+## Tuesday, May 5, 2015
+
+# Location 
+
+--> map of Lugano, add station of Funicolare and spot of the second apero
+
+The conference will be held in the USI Auditorium. The entrance to the auditorium is on the 3rd floor of the USI main building.
+
+# Registration and Welcome Apero
+
+# Reception by the City of Lugano
+
+# Conference Dinner
+
+The conference dinner will take place on Monday, May 4, 2015 at Ristorante Vetta on Monte Bre. The cable car to the restaurant will leave at ... Alternatively one can hike up Monte Bre. One of the hiking trails start just beside the cable car station. The dinner will begin at...
+
+# Contact
+
+Universita della Svizzera Italiana
+Faculty of Informatics
+Via G. Buffi 13
+6900 Lugano
+Switzerland
+
+icits2015.net
+loc@icits2015.net
+
+Internet access: 
+  ssid: ICITS 
+  pwd: Lugano2015
