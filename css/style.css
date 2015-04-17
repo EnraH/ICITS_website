@@ -504,20 +504,30 @@ p.important-date{
 table.program {
 	width:100%; 
 	border-spacing:0;
-	border-right: solid #bbbbbb 1px; 
-	border-bottom: solid #bbbbbb 1px;
+	/*border: solid #bbbbbb 1px; 
+	border-right: solid #bbbbbb 0px; 
+	border-bottom: solid #bbbbbb 0px;*/
 }
 table.program tr td {
 	border-spacing:0;
-	border-left: solid #bbbbbb 1px;
-	border-top: solid #bbbbbb 1px;
-	padding-left:10px;
+	/*border-left: solid #bbbbbb 0px;
+	border-top: solid #bbbbbb 0px;
+	border: solid #bbbbbb 1px; */
+	vertical-align:top;
+  padding-top:10px;
+	padding-left:0px;
 	padding-right:8px;
 }
 table.program tr td.time_col{
-	width:160px;
+	width:120px;
 	vertical-align:top;
-	padding-top:15px;
+	padding-top:10px;
+  padding-left:0px;
+}
+table.program td.session{
+  text-align:center;
+  padding-top:20px;
+  border-bottom:solid 1px;
 }
 
 </style>
