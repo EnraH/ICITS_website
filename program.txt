@@ -74,7 +74,7 @@ All talks will take place at the Universit&agrave; della Svizzera italiana (USI)
 <table class="program">
 <tbody>
 <tr><td class="time_col"><b>09:00&ndash;10:00</b></td><td><b>Invited talk:</b> Andreas Winter</br><i>Reflections on quantum data hiding</i></br>Chair: Stefan Wolf</td></tr>
-<tr><td colspan="2" style="text-align:center;"><b>Codes</b></td></tr>
+<tr><td colspan="2" class="session"><b>Codes</b></td></tr>
 <tr><td class="time_col"><b>10:00&ndash;10:20</b></td><td>Pengwei Wang and Reihaneh Safavi-Naini</br><i>Limited View Adversary Codes: Bounds, Constructions and Applications</i></td></tr>
 <tr><td class="time_col"><b>10:20&ndash;10:40</b></td><td>Rafail Ostrovsky and Anat Paskin-Cherniavsky</br><i>Locally Decodable Codes for Edit distance</i></td></tr>
 <tr><td class="time_col"><b>10:40&ndash;11:10</b></td><td><i>Coffee break</i></td></tr>
