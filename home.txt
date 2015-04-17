@@ -2,16 +2,12 @@
 
 <h5>May 2-5, 2015, Lugano, Switzerland</h5>
 
-<h4>Deadline Extended</h4>
-
-<p class="important-date"><i><font color = "#F41C0D"><b>New</b> </font> Conference Track Submission Deadline: </i>
-<br><b>November 28, 2014 (23:59 UTC)</b></p>
-
 <h4>News</h4>
-<p>
-<b>The <a href="https://secure.usi.ch/icits2015/reg.php" target="_blank">registration server</a> is now open.</b></p>
-<p>
-<b>The invited speakers will be</b>
+<p><b>The proceedings are available at <a href="http://www.springer.com/de/book/9783319174693">Springer</a>.</b></p>
+<p><b>The <a href="https://secure.usi.ch/icits2015/reg.php" target="_blank">registration server</a> is open. After <i>April 15, 2015</i> there will be an additional fee of 100CHF for last-minute registrations.</b></p>
+<p><b>The <a href="http://icits2015.net/?page=program">conference program</a> is now online.</b></p>
+<!-- <p><b>The <a href="https://secure.usi.ch/icits2015/reg.php" target="_blank">registration server</a> is now open. The deadline for early registration is March 1, 2015.</b></p> -->
+<p><b>The <a href="http://icits2015.net/?page=invited">invited speakers</a> will be</b>
 <ul style="columns: 1;-webkit-columns: 1;-moz-columns: 1;">
   <li><a href="http://www.damtp.cam.ac.uk/user/apak/">Adrian Kent</a> <i>(University of Cambridge, UK)</i></li>
   <li><a href="http://www.cs.au.dk/~jbn/">Jesper Buus Nielsen</a> <i>(Aarhus University, Denmark)</i></li>
@@ -21,9 +17,10 @@
 </ul>
 </p>
 
-<p>
-<b>The <a href="https://easychair.org/conferences/?conf=icits20150">submission server</a> is open!</b>
-</p>
+<!-- <p>
+<s><b>The submission server is open!</b></s><br>
+<b>Notification date is January 30, 2015. </b>
+</p> -->
 <h4>About the Conference</h4>
 <p>
 ICITS is a conference about all aspects of information-theoretic
