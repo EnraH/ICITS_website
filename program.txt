@@ -38,7 +38,7 @@ All talks will take place at the Universit&agrave; della Svizzera italiana (USI)
 <tr><td class="time_col"><b>16:50&ndash;17:10</b></td><td>Mario Berta, Omar Fawzi and Volkher Scholz</br><i>Semidefinite programs for randomness extractors</i> (Workshop track)</td></tr>
 <tr><td class="time_col"><b>17:10&ndash;17:30</b></td><td>David Sutter, Volkher B. Scholz and Renato Renner</br><i>Approximate Degradable Quantum Channels</i> (Workshop track)</td></tr>
 <tr><td class="time_col"><b>17:30&ndash;17:50</b></td><td>Anne Broadbent and Serge Fehr</br><i>A purification approach to input privacy</i> (Workshop track)</td></tr>
-<tr><td class="time_col"><b>18:30</b></td><td><i>Reception from the city of Lugano</i></td></tr>
+<tr><td class="time_col"><b>18:30</b></td><td><i>Reception by the City of Lugano</i></td></tr>
 </tbody>
 </table>
 </br></br>
