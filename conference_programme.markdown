@@ -74,21 +74,21 @@ Session chair: Benno Salwey
 
 # Location 
 
---> map of Lugano, add station of Funicolare and spot of the second apero
+--> map of Lugano, add station of Funicolare and Ciani of the second apero, I'll also attach some qr codes with the location of the Ciani and the station of the funicolare.
 
-The conference will be held in the USI Auditorium. The entrance to the auditorium is on the 3rd floor of the USI main building.
+The talks will be given in the USI Auditorium. The entrance is on the 3rd floor of the USI main building.
 
 # Registration and Welcome Apero
 
-The conference will begin with a registration and a welcome apero at USI on Saturday, May 2. The registration will be open from 17:00.
+The conference will begin with the registration and a welcome apero at USI on Saturday, May 2. The registration will be open from 17:00.
 
 # Reception by the City of Lugano
 
-The City of Lugano will organise a reception at on the Sunday, May 3.
+The City of Lugano will organise a reception at the Ciani on the Sunday, May 3 at 18:30.
 
 # Conference Dinner
 
-The conference dinner will take place on Monday, May 4 at Ristorante Vetta on Monte Bre. The cable car to the restaurant will leave at ... Alternatively one can hike up Monte Bre. One of the hiking trails start just beside the cable car station. The dinner will begin at...
+The conference dinner will take place on Monday, May 4 at Ristorante Vetta on Monte Bre. The cable car to the restaurant will leave at 17:00. Alternatively one can hike up Monte Bre. 
 
 # Contact
 
