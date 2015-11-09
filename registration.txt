@@ -1,7 +1,11 @@
 <h2>Registration</h2>
 
+<<<<<<< HEAD
 <p>The registration server is open. Please note though: After <b>April 15, 2015</b> the prices will be <b>increased by 100 CHF</b> for last minute registrations.</p>
 <p>Please register <a href="https://secure.usi.ch/icits2015/reg.php" target="_blank">here</a>.</p>
+=======
+<p>The registration server is now open. Please register <a href="https://secure.usi.ch/icits2015/reg.php" target="_blank">here</a>.</p>
+>>>>>>> 72f28a9bc5e9f6a67015b7c3a21e598f1c510fdb
 
 <p>The current fees are as follows:</br>
 Student: 350 CHF</br>

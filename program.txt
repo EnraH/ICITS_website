@@ -1,7 +1,7 @@
 <h2>ICITS 2015 Program</h2>
 
 <p>
-All talks will take place at the Universit&agrave; della Svizzera italiana (USI) in the Main Building. <!--Coffee breaks and lunches will be served next door in room 6245. <a href="http://goo.gl/maps/H9o4">View Map</a>.-->
+All talks will take place at the Universit&agrave; della Svizzera italiana (USI) in the Main Building. <!--Coffee breaks and lunches will be served next door in room 6245. <a href="http://goo.gl/maps/H9o4" target="_blank">View Map</a>.-->
 </p>
 
 <h3>Saturday, May 2</h3>
@@ -38,7 +38,11 @@ All talks will take place at the Universit&agrave; della Svizzera italiana (USI)
 <tr><td class="time_col"><b>16:50&ndash;17:10</b></td><td>Mario Berta, Omar Fawzi and Volkher Scholz</br><i>Semidefinite programs for randomness extractors</i> (Workshop track)</td></tr>
 <tr><td class="time_col"><b>17:10&ndash;17:30</b></td><td>David Sutter, Volkher B. Scholz and Renato Renner</br><i>Approximate Degradable Quantum Channels</i> (Workshop track)</td></tr>
 <tr><td class="time_col"><b>17:30&ndash;17:50</b></td><td>Anne Broadbent and Serge Fehr</br><i>A purification approach to input privacy</i> (Workshop track)</td></tr>
+<<<<<<< HEAD
 <tr><td class="time_col"><b>18:30</b></td><td><i>Reception from the city of Lugano</i></td></tr>
+=======
+<tr><td class="time_col"><b>18:30</b></td><td><i>Reception by the City of Lugano at the <a href="https://www.google.ch/maps/place/46%C2%B000%2720.6%22N+8%C2%B057%2722.8%22E/@46.0057216,8.9563333,15z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0" target="_blank">Ciani</a></i></td></tr>
+>>>>>>> 72f28a9bc5e9f6a67015b7c3a21e598f1c510fdb
 </tbody>
 </table>
 </br></br>
@@ -61,8 +65,13 @@ All talks will take place at the Universit&agrave; della Svizzera italiana (USI)
 <tr><td class="time_col"><b>12:30&ndash;14:00</b></td><td><i>Lunch</i></td></tr>
 <tr><td class="time_col"><b>14:00&ndash;15:00</b></td><td><b>Invited talk:</b> Daniel Wichs</br><i>Tamper-detection and non-malleable codes</i></br>Chair: Anja Lehmann</td></tr>
 <tr><td class="time_col"><b>15:00&ndash;15:20</b></td><td>Rafael Dowsley, J&ouml;rn M&uuml;ller-Quade and Tobias Nilges</br><i>Weakening the Isolation Assumption of Tamper-proof Hardware Tokens</i></td></tr>
+<<<<<<< HEAD
 <tr><td class="time_col"><b>15:20</b></td><td><i>Hike to <a href="http://www.montebre.ch/">Monte Br&egrave;</a></i></td></tr>
 <tr><td class="time_col"><b>18:00&ndash;22:00</b></td><td><i>Conference dinner on Monte Br&egrave; and dinner speech by Yvo Desmedt. There will be a funicolare leaving at 17:00 from <a href="https://www.google.ch/maps/place/Cassarate/@46.0062205,8.9709867,17z/data=!4m2!3m1!1s0x47842df75e94d361:0x194a2648dda2e258">Cassarate</a> to the restaurant, for those who choose not to hike.</i></td></tr>
+=======
+<tr><td class="time_col"><b>15:20</b></td><td><i>Hike to <a href="http://www.montebre.ch/" target="_blank">Monte Br&egrave;</a></i></td></tr>
+<tr><td class="time_col"><b>18:00&ndash;22:00</b></td><td><i>Conference dinner on Monte Br&egrave; and dinner speech by Yvo Desmedt. There will be a funicolare leaving at 17:00 from <a href="https://www.google.ch/maps/place/Cassarate/@46.0062205,8.9709867,17z/data=!4m2!3m1!1s0x47842df75e94d361:0x194a2648dda2e258" target="_blank">Cassarate</a> to the restaurant, for those who choose not to hike.</i></td></tr>
+>>>>>>> 72f28a9bc5e9f6a67015b7c3a21e598f1c510fdb
 </tbody>
 </table>
 </br></br>

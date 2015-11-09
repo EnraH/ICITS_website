@@ -3,6 +3,7 @@
 <h5>May 2-5, 2015, Lugano, Switzerland</h5>
 
 <h4>News</h4>
+<p><b>The proceedings are available at <a href="http://www.springer.com/de/book/9783319174693">Springer</a>.</b></p>
 <p><b>The <a href="https://secure.usi.ch/icits2015/reg.php" target="_blank">registration server</a> is open. After <i>April 15, 2015</i> there will be an additional fee of 100CHF for last-minute registrations.</b></p>
 <p><b>The <a href="http://icits2015.net/?page=program">conference program</a> is now online.</b></p>
 <!-- <p><b>The <a href="https://secure.usi.ch/icits2015/reg.php" target="_blank">registration server</a> is now open. The deadline for early registration is March 1, 2015.</b></p> -->
