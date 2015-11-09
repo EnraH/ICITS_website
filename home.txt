@@ -1,32 +1,30 @@
-<h1>8<sup>th</sup> International Conference on Information Theoretic Security (ICITS)</h1>
+<h1>8<sup>th</sup> International Conference on Information-Theoretic Security (ICITS)</h1>
 
-<h5>2-5 May 2015, Lugano, Switzerland</h5>
+<h5>May 2-5, 2015, Lugano, Switzerland</h5>
 
-<!--	<div id="sponsors">
-  <table>
-    <tr>
-    <td>
-		Sponsors:
-    </td>
-    <td>
-		In cooperation with:
-    </td>
-    </tr>
-    <tr>
-    <td>
-		<a target="_blank" href="http://www.usi.ch/"><img alt="USI" id="USI" src="img/logo-usi.gif" /></a>
-		<a target="_blank" href="http://www.zurich.ibm.com/"><img alt="ibm" id="ibm" src="img/logo-ibm.jpg" /></a>
-    </td>
-    <td>
-		<a target="_blank" href="http://www.iacr.org/"><img alt="iacr" id="iacr" src="img/iacr.gif" /></a>
-    </td>
-    </tr>
-    </table>
-	</div>-->
+<h4>News</h4>
+<p><b>The <a href="https://secure.usi.ch/icits2015/reg.php" target="_blank">registration server</a> is open. After <i>April 15, 2015</i> there will be an additional fee of 100CHF for last-minute registrations.</b></p>
+<p><b>The <a href="http://icits2015.net/?page=program">conference program</a> is now online.</b></p>
+<!-- <p><b>The <a href="https://secure.usi.ch/icits2015/reg.php" target="_blank">registration server</a> is now open. The deadline for early registration is March 1, 2015.</b></p> -->
+<p><b>The <a href="http://icits2015.net/?page=invited">invited speakers</a> will be</b>
+<ul style="columns: 1;-webkit-columns: 1;-moz-columns: 1;">
+  <li><a href="http://www.damtp.cam.ac.uk/user/apak/">Adrian Kent</a> <i>(University of Cambridge, UK)</i></li>
+  <li><a href="http://www.cs.au.dk/~jbn/">Jesper Buus Nielsen</a> <i>(Aarhus University, Denmark)</i></li>
+  <li><a href="http://www.itp.phys.ethz.ch/people/renesj/index">Joseph M. Renes</a> <i>(ETH Zurich, Switzerland)</i></li>
+  <li><a href="http://www.ccs.neu.edu/home/wichs/">Daniel Wichs</a> <i>(Northeastern University, USA)</i></li>
+  <li><a href="http://grupsderecerca.uab.cat/giq/people/andreas-winter">Andreas Winter</a> <i>(Universitat Autonòma de Barcelona, Spain)</i></li>
+</ul>
+</p>
+
+<!-- <p>
+<s><b>The submission server is open!</b></s><br>
+<b>Notification date is January 30, 2015. </b>
+</p> -->
+<h4>About the Conference</h4>
 <p>
 ICITS is a conference about all aspects of information-theoretic
 security and brings together the leading researchers in the areas of
-cryptography, information theory and quantum information. It is the successor conference to the 2005 IEEE Information Theory Workshop on Theory and Practice in Information - Theoretic Security (ITW 2005) on Awaji Island, Japan. Previous ICITS conferences were held in:
+cryptography, information theory and quantum information. It is the successor conference to the 2005 IEEE Information-Theory Workshop on Theory and Practice in Information-Theoretic Security (ITW 2005) on Awaji Island, Japan. Previous ICITS conferences were held in:
 </p>
 <ul class="single">
 <li><a href="http://www.spms.ntu.edu.sg/mas/conference/icits2013/">ICITS 2013</a> in Singapore.</li>
@@ -45,8 +43,8 @@ ICITS 2015 will be held from <b>May 2 to 5</b>, and it takes place at <b><a href
 
 <ul class="double">
 <li>Physical layer security</li>
-<li>Multiparty computations</li>
-<li>Codes, lattices & cryptography</li>
+<li>Multiparty computation</li>
+<li>Codes, lattices, &amp; cryptography</li>
 <li>Authentication codes</li>
 <li>Randomness extraction</li>
 <li>Cryptography from noisy channels</li>
@@ -58,7 +56,7 @@ ICITS 2015 will be held from <b>May 2 to 5</b>, and it takes place at <b><a href
 <li>Nonlocality and nonsignaling</li>
 <li>Key and message rates</li>
 <li>Secret sharing</li>
-<li>Physical models & assumptions</li>
+<li>Physical models &amp; assumptions</li>
 <li>Network coding security</li>
 <li>Adversarial channel models</li>
 <li>Information-theoretic tools in computational settings</li>
@@ -70,19 +68,59 @@ ICITS 2015 will be held from <b>May 2 to 5</b>, and it takes place at <b><a href
 The proceedings of the conference will be published by Springer in Lecture Notes in Computer Science.
 </p>
 
+<h4>Invited Speakers</h4>
+<p>
+<ul style="columns: 1;-webkit-columns: 1;-moz-columns: 1;">
+  <li><a href="http://www.damtp.cam.ac.uk/user/apak/">Adrian Kent</a> <i>(University of Cambridge, UK)</i></li>
+  <li><a href="http://www.cs.au.dk/~jbn/">Jesper Buus Nielsen</a> <i>(Aarhus University, Denmark)</i></li>
+  <li><a href="http://www.itp.phys.ethz.ch/people/renesj/index">Joseph M. Renes</a> <i>(ETH Zurich, Switzerland)</i></li>
+  <li><a href="http://www.ccs.neu.edu/home/wichs/">Daniel Wichs</a> <i>(Northeastern University, USA)</i></li>
+  <li><a href="http://grupsderecerca.uab.cat/giq/people/andreas-winter">Andreas Winter</a> <i>(Universitat Autonòma de Barcelona, Spain)</i></li>
+</ul>
+</p>
 <h4>
 Conference Organization
 </h4>
 
 <p class="indent">
-<b>General Chairs</b>:<br>
-Anja Lehmann <i>(IBM Research, Zurich)</i><br>
-Stefan Wolf <i>(USI, Lugano)</i>
+<b>General and Program Chairs</b>:<br>
+<a href="http://researcher.watson.ibm.com/researcher/view.php?person=zurich-anj">Anja Lehmann</a> <i>(IBM Research, Zurich, Switzerland)</i><br>
+<a href="http://cqi.inf.usi.ch/">Stefan Wolf</a> <i>(USI Lugano, Switzerland)</i>
 </p>
 
-<p class="indent">
+<!--<p class="indent">
 <b>Program Chairs</b>:<br>
-Anja Lehmann <i>(IBM Research, Zurich)</i><br>
-Stefan Wolf <i>(USI, Lugano)</i>
-</p>
+<a href="http://researcher.watson.ibm.com/researcher/view.php?person=zurich-anj">Anja Lehmann</a> <i>(IBM Research, Zurich, Switzerland)</i><br>
+<a href="http://cqi.inf.usi.ch/">Stefan Wolf</a> <i>(USI Lugano, Switzerland)</i>
+</p>-->
 
+
+
+<h4>
+Program Committee
+</h4>
+<ul style="columns: 1;-webkit-columns: 1;-moz-columns: 1;">
+<li><a href="http://www.larc.usp.br/~pbarreto">Paulo Barreto</a> <i>(University of S&atilde;o Paulo, Brazil)</i></li>
+<li><a href="http://directory.caltech.edu/personnel/berta">Mario Berta</a> <i>(Caltech, USA)</i></li>
+<li><a href="http://mysite.science.uottawa.ca/abroadbe">Anne Broadbent</a> <i>(University of Ottawa, Canada)</i></li>
+<li><a href="http://maths.york.ac.uk/www/rc973">Roger Colbeck</a> <i>(University of York, UK)</i></li>
+<li><a href="http://www.dia.unisa.it/professori/paodar">Paolo D'Arco</a> <i>(University of Salerno, Italy)</i></li>
+<li><a href="http://www.muni.cz/fi/people/Frederic.Dupont%20dupuis">Fr&eacute;d&eacute;ric Dupuis</a> <i>(Masaryk University, Czech Republic)</i></li>
+<li><a href="http://www.crypto.edu.pl/Dziembowski">Stefan Dziembowski</a> <i>(University of Warsaw, Poland)</i></li>
+<li><a href="http://cs.au.dk/~sfaust/">Sebastian Faust</a> <i>(EPF Lausanne, Switzerland)</i></li>
+<li><a href="http://www.omarfawzi.info/">Omar Fawzi</a> <i>(ENS Lyon, France)</i></li>
+<li><a href="http://pub.ist.ac.at/~pgazi/">Peter Gazi</a> <i>(IST, Austria)</i></li>
+<li><a href="http://www.cs.technion.ac.il/~yuvali/">Yuval Ishai</a> <i>(Technion, Israel)</i></li>
+<li><a href="http://researcher.watson.ibm.com/researcher/view.php?person=zurich-anj">Anja Lehmann</a> <i>(IBM Research Zurich, Switzerland)</i></li>
+<li><a href="http://www.isg.rhul.ac.uk/~martin/">Keith Martin</a> <i>(Royal Holloway, University of London, UK)</i></li>
+<li><a href="http://www.ece.umd.edu/~prakash">Prakash Narayan</a> <i>(University of Maryland, USA)</i></li>
+<li><a href="http://anderson-nascimento.squarespace.com">Anderson Nascimento</a> <i>(University of Washington Tacoma, USA)</i></li>
+<li><a href="http://staff.aist.go.jp/k.nuida/index-en.html">Koji Nuida</a> <i>(AIST, Japan)</i></li>
+<li><a href="http://www1.spms.ntu.edu.sg/~frederique/">Fr&eacute;d&eacute;rique Oggier</a> <i>(NTU, Singapore)</i></li>
+<li><a href="http://www.cs.au.dk/~orlandi/">Claudio Orlandi</a> <i>(Aarhus University, Denmark)</i></li>
+<li><a href="http://www-ma4.upc.edu/~cpadro/">Carles Padro</a> <i>(Polytechnic University of Catalonia, Spain)</i></li>
+<li><a href="http://pages.cpsc.ucalgary.ca/~rei/">Rei Safavi-Naini</a> <i>(University of Calgary, Canada)</i></li>
+<li><a href="http://sydney.edu.au/research/our_research/postdoc_fellows.shtml">Marco Tomamichel</a> <i>(University of Sidney, Australia)</i></li>
+<li><a href="http://cqi.inf.usi.ch/">Stefan Wolf</a> <i>(USI Lugano, Switzerland)</i></li>
+<li><a href="http://crypto.stanford.edu/~zhandry/">Mark Zhandry</a> <i>(Stanford University, USA)</i></li>
+</ul>

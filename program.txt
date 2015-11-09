@@ -4,107 +4,83 @@
 All talks will take place at the Universit&agrave; della Svizzera italiana (USI) in the Main Building. <!--Coffee breaks and lunches will be served next door in room 6245. <a href="http://goo.gl/maps/H9o4">View Map</a>.-->
 </p>
 
-<!--
-<h3>Tuesday, August 14</h3>
-
-
+<h3>Saturday, May 2</h3>
 <table class="program">
 <tbody>
-<tr><td class="time_col"><b>19:00-21:00</b></td><td><p>Reception (Pavillon André-Aisenstadt, Room 6245. <a href="http://goo.gl/maps/H9o4">View Map</a>.)</p></td></tr>
+<tr>
+  <td class="time_col"><b>17:00&ndash;20:00</b></td>
+  <td><i>Reception and registration</i></td>
+</tr>
 </tbody>
 </table>
+</br></br>
 
-<h3>Wednesday, August 15</h3>
-
+<h3>Sunday, May 3</h3>
 <table class="program">
-<tbody><tr><td class="time_col"><b>09:00-09:10</b></td><td><p>Opening Remarks</p></td></tr><tr><td><b>09:10-10:00</b><br>(Invited Talk)<br></td><td><p>
-<i><a href="#physical"><s>Semantic security in the physical layer</s></a></i><br><s>Alexander Vardy</s><br>
-<i><a href="#timing">Timing side channels: quantifying and mitigating the threat</a></i><br>Negar Kiyavash
-
-</p></td></tr>
-
-<tr><td class="time_col"><b>10:00-10:25</b></td><td><p>Break</p></td></tr>
-
-<tr><td class="time_col"><b>10:25-12:05</b><br>(Conference Track)<br>Encryption</td><td><p><i><a href="#shannon">Shannon Impossibility, Revisited</a></i><br>Yevgeniy Dodis
-</p><p><i><a href="#guessing">Guessing secrecy and its randomness requirement</a></i><br>Mohsen Alimomeni and Reihaneh Safavi-Naini
-</p><p><i><a href="#timed">Information-Theoretic Timed-Release Security: Key-Agreement, Encryption and Authentication Code</a></i><br>Yohei Watanabe, Takenobu Seito and Junji Shikata
-</p><p><i><a href="#delegation">Two Protocols for Delegation of Computation</a></i><br>Ran Canetti, Ben Riva and Guy Rothblum
-</p></td></tr>
-
-<tr><td class="time_col"><b>12:05-13:20</b></td><td><p>Lunch</p></td></tr>
-
-<tr><td class="time_col"><b>13:20-14:10</b><br>(Invited Talk)<br></td><td><p><i><a href="#nonmalleable">Non-malleable extractors, non-malleable condensers and their applications</a></i><br>Xin Li
-</p></td></tr>
-
-<tr><td class="time_col"><b>14:10-14:35</b></td><td><p>Break</p></td></tr>
-
-<tr><td class="time_col"><b>14:35-16:15</b><br>(Conference Track)<br>Two-party Protocols</td><td><p><i><a href="#amortized">On the Amortized Complexity of Zero Knowledge Protocols for Multiplicative Relations</a></i><br>Ronald Cramer, Ivan Damgård and Valerio Pastro
-</p><p><i><a href="#usercentric">Efficient Threshold Zero-Knowledge with Applications to User-Centric Protocols</a></i><br>Marcel Keller, Gert Læssøe Mikkelsen and Andy Rupp
-</p><p><i><a href="#linear">Statistically Secure Linear-Rate Dimension Extension for Oblivious Affine Function Evaluation</a></i><br>Nico Döttling, Daniel Kraschewski and Jörn Müller-Quade
-</p><p><i><a href="#mceliece">Universally Composable Oblivious Transfer from Lossy Encryption and the McEliece Assumptions</a></i><br>Bernardo M. David, Anderson Nascimento and Jörn Müller-Quade
-</p></td></tr>
-
-<tr><td class="time_col"><b>16:15-16:40</b></td><td><p>Break</p></td></tr>
-
-<tr><td class="time_col"><b><s>16:40-17:30</s></b><br><s>(Invited Talk)</s><br></td><td><p><i><s>Timing side channels: quantifying and mitigating the threat</s></i><br><s>Negar Kiyavash</s></p></td></tr><tr><td><b>19:30-22:00</b></td><td><p>Conference Dinner (Restaurant <a href="http://www.ilovesantos.ca/">Santos</a>. <a href="http://goo.gl/maps/9FTA">View Map</a>.)
-</p></td></tr></tbody>
+<tbody>
+<tr><td class="time_col"><b>09:15&ndash;09:30</b></td><td><i>Welcome</i></td></tr>
+<tr><td class="time_col"><b>09:30&ndash;10:30</b></td><td><b>Invited talk:</b> Adrian Kent</br><i>New developments in relativistic quantum cryptography</i></br>Chair: Stefan Wolf</td></tr>
+<tr><td class="time_col"><b>10:30&ndash;11:00</b></td><td><i>Coffee break</i></td></tr>
+<tr><td colspan="2" class="session"><b>Protocols</b></br>Session chair: Rei Safavi-Naini</td></tr>
+<tr><td class="time_col"><b>11:00&ndash;11:20</b></td><td>Damian Markham and Anne Marin</br><i>Practical sharing of quantum secrets over untrusted channels</i></td></tr>
+<tr><td class="time_col"><b>11:20&ndash;11:40</b></td><td>Bernardo M. David, Ryo Nishimaki, Samuel Ranellucci and Alain Tapp</br><i>Generalizing Efficient Multiparty Computation</i></td></tr>
+<tr><td class="time_col"><b>11:40&ndash;12:00</b></td><td>Ravi Kishore, Ashutosh Kumar, Chiranjeevi Vanarasa and Srinathan Kannan</br><i>Round-Optimal Perfectly Secret Message Transmission With Linear Communication Complexity</i></td></tr>
+<tr><td class="time_col"><b>12:00&ndash;12:20</b></td><td>Ning Ding</br><i>On Zero-Knowledge with Strict Polynomial-Time Simulation and Extraction from Differing-Input Obfuscation for Circuits</i></td></tr>
+<tr><td class="time_col"><b>12:20&ndash;14:00</b></td><td><i>Lunch</i></td></tr>
+<tr><td class="time_col"><b>14:00&ndash;15:00</b></td><td><b>Invited talk:</b> Jesper Buus Nielsen</br><i>Tamper and leakage resilient von Neumann architectures from continuous non-malleable codes</i></br>Chair: Anja Lehmann</td></tr>
+<tr><td colspan="2" class="session"><b>Leakage</b></br>Session chair: &Auml;min Baumeler</td></tr>
+<tr><td class="time_col"><b>15:00&ndash;15:20</b></td><td>Benjamin Fuller and Ariel Hamlin</br><i>Unifying Leakage Classes: Simulatable Leakage and Pseudoentropy</i></td></tr>
+<tr><td class="time_col"><b>15:20&ndash;15:40</b></td><td>Ivan Damg&aring;rd, Fr&eacute;d&eacute;ric Dupuis and Jesper Buus Nielsen</br><i>On the orthogonal vector problem and the feasibility of unconditionally-secure leakage-resilient computation</i></td></tr>
+<tr><td class="time_col"><b>15:40&ndash;16:10</b></td><td><i>Coffee break</i></td></tr>
+<tr><td colspan="2" class="session"><b>Quantum workshop</b></br>Session chair: Alberto Montina</td></tr>
+<tr><td class="time_col"><b>16:10&ndash;16:30</b></td><td>Rotem Arnon-Friedman, Renato Renner and Thomas Vidick</br><i>Non-signalling parallel repetition using de Finetti reductions</i> (Workshop track)</td></tr>
+<tr><td class="time_col"><b>16:30&ndash;16:50</b></td><td>Joseph M. Renes, David Sutter and S. Hamed Hassani</br><i>Alignment of Polarized Sets</i> (Workshop track)</td></tr>
+<tr><td class="time_col"><b>16:50&ndash;17:10</b></td><td>Mario Berta, Omar Fawzi and Volkher Scholz</br><i>Semidefinite programs for randomness extractors</i> (Workshop track)</td></tr>
+<tr><td class="time_col"><b>17:10&ndash;17:30</b></td><td>David Sutter, Volkher B. Scholz and Renato Renner</br><i>Approximate Degradable Quantum Channels</i> (Workshop track)</td></tr>
+<tr><td class="time_col"><b>17:30&ndash;17:50</b></td><td>Anne Broadbent and Serge Fehr</br><i>A purification approach to input privacy</i> (Workshop track)</td></tr>
+<tr><td class="time_col"><b>18:30</b></td><td><i>Reception from the city of Lugano</i></td></tr>
+</tbody>
 </table>
+</br></br>
 
-<h3>Thursday, August 16</h3>
 
+
+<h3>Monday, May 4</h3>
 <table class="program">
-<tr><td class="time_col"><b>9:00-9:50</b><br>(Invited Talk)<br></td><td><p><i><a href="#locking">Information locking from asymptotic geometry</a></i><br>Patrick Hayden</p></td></tr>
-
-<tr><td class="time_col"><b>9:50-10:15</b></td><td><p>Break</p></td></tr>
-
-<tr><td class="time_col"><b>10:15-11:55</b><br>(Workshop Track)<br>Quantum Cryptography</td><td><p><i><a href="#qkd">Security proof of two-way quantum key distribution protocols with partial device independence</a></i><br>Normand
- Beaudry, Marco Lucamarini, Stefano Mancini,
- Renato Renner
-</p><p><i><a href="#qextractors">Quantum to Classical Randomness Extractors</a></i><br>Mario Berta, Omar Fawzi and Stephanie Wehner
-</p><p><i><a href="#quality">Improving the quality of Santha-Vazirani sources</a></i><br>Roger Colbeck and Renato Renner
-</p><p><i><a href="#feasibility">Feasibility and Completeness of Cryptographic Tasks in the Quantum World</a></i><br>Jonathan Katz, Fang Song, Hong-Sheng Zhou and Vassilis Zikas
-</p></td></tr>
-
-<tr><td class="time_col"><b>11:55-13:25</b></td><td><p>Lunch</p></td></tr>
-
-<tr><td class="time_col"><b>13:25-14:40</b><br>(Workshop Track)<br>Information Theory</td><td><p><i><a href="#polar">Polar codes for private classical communication</a></i><br>Mark M. Wilde and Joseph M. Renes
-</p><p><i><a href="#privacy">An Information-theoretic Approach to Privacy</a></i><br>Lalitha Sankar, S. Raj Rajagopalan, and H. Vincent Poor
-</p><p><i><a href="#common">Bounds for Secure Two-Party Sampling from a Generalization of Common Information</a></i><br>Vinod
- M Prabhakaran and Manoj
- M Prabhakaran
-</p></td></tr>
-
-<tr><td class="time_col"><b>14:40-15:05</b></td><td><p>Break</p></td></tr>
-
-<tr><td><b>15:05-15:55</b><br>(Invited Talk)<br></td><td><p><i><a href="#entropies">The Many Entropies of One-Way Functions</a></i><br>Salil Vadhan (Harvard)
-</p></td></tr>
-
-<tr><td class="time_col"><b>15:55-16:20</b></td><td><p>Break</p></td></tr>
-
-<tr><td class="time_col"><b>16:20-18:00</b><br>(Workshop Track)<br>Protocols and Computational Applications</td><td><p><i><a href="#unified">A Unified Approach to Deterministic Encryption: New Constructions and a Connection to Computational Entropy</a></i><br>Benjamin Fuller, Adam O'Neill and Leonid Reyzin
-</p><p><i><a href="#everywhere">Almost-Everywhere Secure Computation with Edge Corruptions</a></i><br> Nishanth Chandran and Juan Garay and Rafail Ostrovsky
-</p><p><i><a href="#david">David &amp; Goliath Oblivious Affine Function Evaluation</a></i><br>Nico Döttling, Daniel Kraschewski and Jörn Müller-Quade
-</p><p><i><a href="#pir">Share Conversion and Private Information Retrieval</a></i><br>Amos
- Beimel, Yuval Ishai, Eyal 
-Kushilevitz, and Ilan Orlov
-</p></td></tr></tbody>
+<tbody>
+<tr><td class="time_col"><b>09:00&ndash;10:00</b></td><td><b>Invited talk:</b> Joseph M. Renes</br><i>Classical uses of quantum complementarity: leakage resilient computation and semantically-secure communication</i></br>Chair: Stefan Wolf</td></tr>
+<tr><td colspan="2" class="session"><b>Foundations I</b></br>Session chair: Fr&eacute;d&eacute;ric Dupuis</td></tr>
+<tr><td class="time_col"><b>10:00&ndash;10:20</b></td><td>Flavio Calmon, Mayank Varia, Muriel M&eacute;dard, Mark Christiansen, Ken Duffy, Linda M. Zeger and Jo&atilde;o Barros</br><i>Revisiting the Shannon Theory Approach to Cryptography</i> (Workshop track)</td></tr>
+<tr><td class="time_col"><b>10:20&ndash;10:40</b></td><td>Maciej Skorski</br><i>Metric Pseudoentropy: Characterizations, Transformations and Applications</i></td></tr>
+<tr><td class="time_col"><b>10:40&ndash;11:10</b></td><td><i>Coffee break</i></td></tr>
+<tr><td class="time_col"><b>11:10&ndash;11:30</b></td><td>Maciej Skorski</br><i>Non-uniform Hardcore Lemmas for Unpredictability and Indistinguishability: New Proofs and Applications to Pseudoentropy</i></td></tr>
+<tr><td class="time_col"><b>11:30&ndash;11:50</b></td><td>Mohammad Hajiabadi and Bruce M. Kapron</br><i>Gambling, Computational Information, and Encryption Security</i></td></tr>
+<tr><td colspan="2" class="session"><b>Foundations II</b></br>Session chair: Anne Broadbent</td></tr>
+<tr><td class="time_col"><b>11:50&ndash;12:10</b></td><td>Gr&eacute;gory Demay, Peter Ga&#382;i, Ueli Maurer and Bj&ouml;rn Tackmann</br><i>Query-Complexity Amplification for Random Oracles</i></td></tr>
+<tr><td class="time_col"><b>12:10&ndash;12:30</b></td><td>Ivan  Damg&aring;rd, Sebastian Faust, Pratyay Mukherjee and Daniele Venturi</br><i>The Chaining Lemma and its application</i></td></tr>
+<tr><td class="time_col"><b>12:30&ndash;14:00</b></td><td><i>Lunch</i></td></tr>
+<tr><td class="time_col"><b>14:00&ndash;15:00</b></td><td><b>Invited talk:</b> Daniel Wichs</br><i>Tamper-detection and non-malleable codes</i></br>Chair: Anja Lehmann</td></tr>
+<tr><td class="time_col"><b>15:00&ndash;15:20</b></td><td>Rafael Dowsley, J&ouml;rn M&uuml;ller-Quade and Tobias Nilges</br><i>Weakening the Isolation Assumption of Tamper-proof Hardware Tokens</i></td></tr>
+<tr><td class="time_col"><b>15:20</b></td><td><i>Hike to <a href="http://www.montebre.ch/">Monte Br&egrave;</a></i></td></tr>
+<tr><td class="time_col"><b>18:00&ndash;22:00</b></td><td><i>Conference dinner on Monte Br&egrave; and dinner speech by Yvo Desmedt. There will be a funicolare leaving at 17:00 from <a href="https://www.google.ch/maps/place/Cassarate/@46.0062205,8.9709867,17z/data=!4m2!3m1!1s0x47842df75e94d361:0x194a2648dda2e258">Cassarate</a> to the restaurant, for those who choose not to hike.</i></td></tr>
+</tbody>
 </table>
+</br></br>
 
-<h3>Friday, August 17</h3>
 
+
+
+<h3>Tuesday, May 5</h3>
 <table class="program">
-<tr><td class="time_col"><b>9:00-9:50</b><br>(Invited Talk)<br></td><td><p><i><a href="#reconstruction">Reconstruction of a shared secret in the presence of faults</a></i><br>Serge Fehr (CWI Amsterdam)
-</p></td></tr>
-
-<tr><td class="time_col"><b>9:50-10:15</b></td><td><p>Break</p></td></tr>
-
-<tr><td class="time_col"><b>10:15-11:55</b><br>(Conference Track)<br>Secret-sharing and Multi-party Computation</td><td><p><i><a href="#optimum">Optimum General Threshold Secret Sharing</a></i><br>Maki Yoshida, Toru Fujiwara and Marc Fossorier
-</p><p><i><a href="#trading">Trading Robustness for Correctness and Privacy in Certain Multiparty Computations, Beyond an Honest Majority</a></i><br>Anne Broadbent, Stacey Jeffery, Samuel Ranellucci, and Alain Tapp
-</p><p><i><a href="#passive">Passive Corruption in Statistical Multi-Party Computation</a></i><br>Martin Hirt, Christoph Lucas, Ueli Maurer and Dominik Raub
-</p></td></tr>
-
-<tr><td class="time_col"><b>11:55-12:10</b></td><td><p>Break</p></td></tr>
-
-<tr><td class="time_col"><b>12:10-1:00</b><br>(Invited Talk)<br></td><td><p><i><a href="#fake">How to Fake Auxiliary Input</a></i><br>Krzysztof Pietrzak
-</p></td></tr></tbody></table>
--->
+<tbody>
+<tr><td class="time_col"><b>09:00&ndash;10:00</b></td><td><b>Invited talk:</b> Andreas Winter</br><i>Reflections on quantum data hiding</i></br>Chair: Stefan Wolf</td></tr>
+<tr><td colspan="2" class="session"><b>Codes</b></br>Session chair: Anne Broadbent</td></tr>
+<tr><td class="time_col"><b>10:00&ndash;10:20</b></td><td>Pengwei Wang and Reihaneh Safavi-Naini</br><i>Limited View Adversary Codes: Bounds, Constructions and Applications</i></td></tr>
+<tr><td class="time_col"><b>10:20&ndash;10:40</b></td><td>Rafail Ostrovsky and Anat Paskin-Cherniavsky</br><i>Locally Decodable Codes for Edit distance</i></td></tr>
+<tr><td class="time_col"><b>10:40&ndash;11:10</b></td><td><i>Coffee break</i></td></tr>
+<tr><td colspan="2" class="session"><b>Post-quantum cryptography</b></br>Session chair: Benno Salwey</td></tr>
+<tr><td class="time_col"><b>11:10&ndash;11:30</b></td><td>Steven Galbraith and Barak Shani</br><i>The Multivariate Hidden Number Problem</i></td></tr>
+<tr><td class="time_col"><b>11:30&ndash;11:50</b></td><td>Michael Walter</br><i>Lattice Point Enumeration on Block Reduced Bases</i></td></tr>
+<tr><td class="time_col"><b>11:50&ndash;12:10</b></td><td>Eduardo Morais, Steven Galbraith and Ricardo Dahab</br><i>Adaptive key recovery attacks on NTRU-based somewhat homomorphic encryption schemes</i></td></tr>
+</tbody>
+</table>
